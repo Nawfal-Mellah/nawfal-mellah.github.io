@@ -1,0 +1,349 @@
+body {
+  margin-left: 30px;
+  margin-right: 30px;
+  font-family: 'Montserrat';
+  background: #21304D;
+}
+
+h1 {
+  font-family: Baskerville;
+  color: white;
+  font-size: 42px;
+  margin: 10px;
+}
+
+img {
+  width: 70px;
+  position: absolute;
+  top: 25px;
+  right: 75px;
+}
+
+.tooltip {
+  opacity: 0;
+  padding: 5px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  pointer-events: none;
+  font-size: small;
+}
+
+/* Grande fenetre */
+@media screen and (min-width: 1110px) {
+  #input-global {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+/* Petite fenetre */
+@media screen and (max-width: 1110px) {
+  #input-global {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* Slider de dates */
+#slider-date, #selected-dates {
+  padding-left: 10px;
+}
+
+#slider-date {
+  width: 400px;
+  height: 15px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+#selected-dates {
+  margin-bottom: 10px;
+  color: white;
+}
+
+/* Recherche de pays */
+
+/* Grande fenetre */
+@media screen and (min-width: 1110px) {
+  #input-pays-conteneur {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    background: white;
+    width: 370px;
+    padding: 10px;
+    padding-left: 25px;
+    border-radius: 20px;
+    display: inline-block;
+  }
+}
+
+/* Petite fenetre */
+@media screen and (max-width: 1110px) {
+  #input-pays-conteneur {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: white;
+    width: 370px;
+    padding: 10px;
+    padding-left: 25px;
+    border-radius: 20px;
+    display: inline-block;
+  }
+}
+
+#input-pays-error {
+  color: red;
+}
+
+#input-et-source {
+  display: inline-block;
+}
+
+#i {
+  float: left;
+  width: 30%;
+}
+
+/* Sources */
+#source {
+  font-size: 12px;
+  color: black;
+  float: left;
+  top: 0px;
+  margin-left: 20px;
+  margin-right: 10px;
+  width: 60%;
+}
+
+
+a {
+  color: black;
+}
+
+
+/* Conteneur données */
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+
+/* Global = map + stats globales */
+#global {
+  width: 66%;
+  height: 560px;
+  display: inline-block;
+}
+
+
+
+/* Map */
+#map {
+  height: 310px; 
+  width: 93%;
+  font-size: small;
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  font-size: 12px;
+  border-radius: 20px;
+  position: relative;
+}
+
+/* Stats globales */
+#stats-globales {
+  background: white;
+  margin: 20px;
+  height: 110px; 
+  width: 93%;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+#affichage-stats {
+  height: 70px;
+  width: 100%;
+  min-width: 300px;
+}
+
+#texte-stats {
+  width: 100%;
+  height: 40px;
+}
+
+#date {
+  background: white;
+  width: auto;
+  float: left;
+}
+
+#matchs-joues, #nombre-adversaires, #nombre-buts-marques, #nombre-buts-pris {
+  display: inline-block;
+  width: auto;
+  height: auto; 
+  background: white;
+  margin-left: 20px;
+  margin-bottom: 0;
+
+}
+
+#bar-and-pie {
+  height: 70px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: small;
+}
+
+#barre-buts, #pie-chart {
+  display: inline-block;
+  height: 100%;
+}
+
+#barre-buts {
+  width: 55%;
+}
+
+#pie-chart {
+  width: 40%;
+  margin-left: 20px;
+}
+
+
+/* Stats par pays */
+
+#stats-par-pays {
+  padding: 20px;
+  background: white;
+  width: 30%; 
+  height: 480px;
+  display: inline-block;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+#fermer-stats-par-pays {
+  width: 25px;
+  margin-bottom: 0;
+  cursor: pointer;
+  float: left;
+}
+
+#sous-titre {
+  text-align: center;
+  font-family: Georia, serif;
+  color: #21304D;
+  width: 100%;
+  margin-left: -25px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#matchs {
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+#outcome {
+  font-size: small;
+  width: 100%;
+  height: 50px;
+  margin-top: 10px;
+}
+
+#buts-conteneur {
+  height: 140px; 
+}
+
+#buts-marques {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#ecart {
+  float: left; 
+  height: 90px;
+  width: 45%;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+#buts {
+  margin-top: 10px;
+  height: 100px;
+  float: left; 
+  width: 45%;
+}
+
+#historique-conteneur {
+  margin-top: 10px;
+  width: 100%;
+  height: 120px;
+}
+
+#historique-titre {
+  text-align: center;
+  height: 20px;
+}
+
+#historique {
+  margin-top: 10px;
+  width: 100%;
+  height: 90px;
+}
+
+
+/* Curseur de souris */
+.pointer {
+  cursor: pointer; 
+}
+
+.grab {
+  cursor: grab;
+}
+
+
+
+
+/* Police pour chiffres */
+b {
+  font-family: Baskerville;
+  font-weight: bold;
+  font-size: 24px;
+  color: #21304D;
+}
+
+b1 {
+  font-weight: bold;
+  font-family: Baskerville;
+  color: #21304D;
+  font-size: 20px;
+}
+
+b2 {
+  font-weight: bold;
+  font-family: Baskerville;
+  color: white;
+  font-size: 20px;
+}
+
+b3 {
+  font-family: Baskerville;
+  font-weight: bold;
+  font-size: 20px;
+  color: #21304D;
+}
+
+b3 {
+  font-family: Baskerville;
+  font-weight: bold;
+  font-size: 20px;
+  color: #21304D;
+}

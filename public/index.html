@@ -1,0 +1,87 @@
+<!-- Lancer python -m http.server pour voir la visualisation -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <title>Histoire de l'Equipe de France de football</title>
+  <meta name="description" content="Graphiques et statistiques intéressantes sur l'histoire de l'équipe de France de football avec une carte interactive.">
+  <meta name="authors" content="Chloé DUBRAY, Nawfal MELLAH, Diane VINCENT">
+  <meta property="og:title" content="Histoire de l'Equipe de France de football">
+  <meta property="og:description" content="Graphiques et statistiques intéressantes sur l'histoire de l'équipe de France de football avec une carte interactive.">
+  <!-- <meta property="og:image" content="link_to_github_thumbnail"> -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="cache-control" content="no-cache"> 
+  <meta http-equiv="expires" content="0"> 
+  <meta http-equiv="pragma" content="no-cache">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+</head>
+
+<body>
+  <h1>Histoire de l'Equipe de France de football</h1>
+  <img src="logo.png"/>
+  <div id="input-global">
+    <div id="dates-conteneur">
+      <div id="selected-dates"></div>
+      <div id="slider-date"></div>
+    </div>
+    <div id="input-pays-conteneur">
+      Rechercher un pays : 
+      <input id="input-pays" type="text" placeholder="🔍 Pays..."></input>
+      <div id="input-pays-error"></div>
+    </div>
+  </div>
+  
+  <div class="container">
+    <div id="global">
+      <div id="map">
+        <div id = "i"><i>Cliquez sur un pays pour voir plus d'informations</i></div>
+        <div id="source">
+          <i>Source :</i> <a href="https://fr.wikipedia.org/wiki/Liste_des_matchs_de_l%27%C3%A9quipe_de_France_de_football_par_adversaire">Liste des matchs de l'équipe de France de football par adversaire, Wikipédia<br></a>
+          <i>Source :</i> <a href="https://geojson-maps.ash.ms/">GeoJSON Maps</a>
+        </div>
+      </div>
+      <div id="stats-globales">
+        <div id="texte-stats">
+          <div id="date"></div>
+          <div id="affichage-stats">
+            <div id="matchs-joues"></div>
+            <div id="nombre-adversaires"></div>
+            <div id="nombre-buts-marques"></div>
+            <div id="nombre-buts-pris"></div>
+          </div>
+        </div>
+        <div id="bar-and-pie">
+          <div id="barre-buts"></div>
+          <div id="pie-chart"></div>
+        </div>
+      </div>
+    </div>
+    <div id="stats-par-pays"> 
+      <div id="fermer-stats-par-pays">❌</div>
+      <div id="sous-titre"> </div>
+      <div id="matchs"></div>
+      <div id="outcome"></div>
+      <div id="buts-conteneur">
+        <div id="buts-marques"></div>
+        <div id="ecart"></div>
+        <div id="buts"></div>
+      </div>
+      <div id="historique-conteneur">
+        <div id="historique-titre"></div>
+        <div id="historique"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+
+</body>
+</html>

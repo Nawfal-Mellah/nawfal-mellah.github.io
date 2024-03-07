@@ -1,0 +1,891 @@
+,date,pays,ville,stade,equipe1,equipe2,score1,score2,result_france,competition
+0,1997-10-11,France,Lens,Stade Félix-Bollaert,France,Afrique du Sud,2,1,win,Match amical
+1,1998-06-12,France,Marseille,Stade Vélodrome,France,Afrique du Sud,3,0,win,Coupe du monde 1998 (Groupe C)
+2,2000-10-07,Afrique du Sud,Johannesbourg,Ellis Park Stadium,Afrique du Sud,France,0,0,draw,Coupe du challenge 2000[2] (amical)
+3,2010-06-22,Afrique du Sud,Bloemfontein ,Free State Stadium,France,Afrique du Sud,1,2,loss,Coupe du monde 2010 (Groupe A)
+4,2022-03-29,France,Villeneuve-d'Ascq,Stade Pierre-Mauroy,France,Afrique du Sud,5,0,win,Match amical
+5,1990-11-17,Albanie,Tirana,Stade Qemal-Stafa,Albanie,France,0,1,win,Qualifications pour l'Euro 1992
+6,1991-03-30,France,Paris,Parc des Princes,France,Albanie,5,0,win,Qualifications pour l'Euro 1992
+7,2011-09-02,Albanie,Tirana,Stade Qemal-Stafa,Albanie,France,1,2,win,Qualifications pour l'Euro 2012
+8,2011-10-07,France,Saint-Denis,Stade de France,France,Albanie,3,0,win,Qualifications pour l'Euro 2012
+9,2014-11-14,France,Rennes,Stade de la route de Lorient,France,Albanie,1,1,draw,Match amical
+10,2015-06-13,Albanie,Elbasan,Elbasan Arena,Albanie,France,1,0,loss,Match amical
+11,2016-06-15,France,Marseille,Stade Vélodrome,France,Albanie,2,0,win,Euro 2016 (Groupe A)
+12,2019-09-07,France,Saint-Denis,Stade de France,France,Albanie,4,1,win,Qualifications pour l'Euro 2020
+13,2019-11-17,Albanie,Tirana,Arena Kombëtare,Albanie,France,0,2,win,Qualifications pour l'Euro 2020
+14,1975-09-06,Algérie,Alger,Stade du 5 juillet 1962,Algérie,France,3,2,loss,Jeux méditerranéens de 1975
+15,2001-10-06,France,Saint-Denis,Stade de France,France,Algérie,4,1,win,"Match amical[5],"
+16,1931-03-15,France,Colombes,Stade olympique Yves-du-Manoir,France,Allemagne,1,0,win,Match amical
+17,1933-03-19,Reich allemand,Berlin,Deutsches Stadion,Allemagne,France,3,3,draw,Match amical
+18,1935-03-17,France,Paris,Parc des Princes,France,Allemagne,1,3,loss,Match amical
+19,1937-03-21,Reich allemand,Stuttgart,Adolf-Hitler-Kampfbahn,Allemagne,France,4,0,loss,Match amical
+20,1952-10-05,France,Colombes,Stade olympique Yves-du-Manoir,France,RFA,3,1,win,Match amical
+21,1954-10-16,Allemagne de l'Ouest,Hanovre,Niedersachsenstadion,RFA,France,1,3,win,Match amical
+22,1958-06-28,Suède,Göteborg,Ullevi,RFA,France,3,6,win,Coupe du monde 1958 (Petite finale)
+23,1958-10-26,France,Colombes,Stade olympique Yves-du-Manoir,France,RFA,2,2,draw,Match amical
+24,1962-10-24,Allemagne de l'Ouest,Stuttgart,Neckarstadion,RFA,France,2,2,draw,Match amical
+25,1967-09-27,Allemagne de l'Ouest,Berlin,Stade olympique,RFA,France,5,1,loss,Match amical
+26,1968-09-25,France,Marseille,stade Vélodrome,France,RFA,1,1,draw,Match amical
+27,1973-10-13,Allemagne de l'Ouest,Gelsenkirchen,Parkstadion,RFA,France,2,1,loss,Match amical
+28,1977-02-23,France,Paris,Parc des Princes,France,RFA,1,0,win,Match amical
+29,1980-11-19,Allemagne de l'Ouest,Hanovre,Niedersachsenstadion,RFA,France,4,1,loss,Match amical
+30,1982-07-08,Espagne,Séville,Stade Ramón-Sánchez-Pizjuán,RFA,France,3,3,loss,Coupe du monde 1982 (Demi-finale)
+31,1984-04-18,France,Strasbourg,Stade de la Meinau,France,RFA,1,0,win,Match amical
+32,1986-06-25,Mexique,Guadalajara,Stade Jalisco,RFA,France,2,0,loss,Coupe du monde 1986 (Demi-finale)
+33,1987-08-12,Allemagne,Berlin,Stade olympique,RFA,France,2,1,loss,Match amical
+34,1990-02-28,France,Montpellier,Stade de la Mosson,France,RFA,2,1,win,Match amical
+35,1996-06-01,Allemagne,Stuttgart,Gottlieb-Daimler-Stadion,Allemagne,France,0,1,win,Match amical
+36,2001-02-27,France,Saint-Denis,Stade de France,France,Allemagne,1,0,win,Match amical
+37,2003-11-15,Allemagne,Gelsenkirchen,Arena AufSchalke,Allemagne,France,0,3,win,Match amical
+38,2005-11-12,France,Saint-Denis,Stade de France,France,Allemagne,0,0,draw,Match amical
+39,2012-02-29,Allemagne,Brême,Weserstadion,Allemagne,France,1,2,win,Match amical
+40,2013-02-06,France,Saint-Denis,Stade de France,France,Allemagne,1,2,loss,Match amical
+41,2014-07-04,Brésil,Rio de Janeiro,Stade Maracanã,France,Allemagne,0,1,loss,Coupe du monde 2014 (Quart de finale)
+42,2015-11-13,France,Saint-Denis,Stade de France,France,Allemagne,2,0,win,Match amical
+43,2016-07-07,France,Marseille,stade Vélodrome,Allemagne,France,0,2,win,Euro 2016 (Demi-finale)
+44,2017-11-14,Allemagne,Cologne,RheinEnergieStadion,Allemagne,France,2,2,draw,Match amical
+45,2018-09-06,Allemagne,Munich,Allianz Arena,Allemagne,France,0,0,draw,Ligue des nations 2018-2019 (Ligue A-Groupe 1)[6]
+46,2018-10-16,France,Saint-Denis,Stade de France,France,Allemagne,2,1,win,Ligue des nations 2018-2019 (Ligue A-Groupe 1)
+47,2021-06-15,Allemagne,Munich,Allianz Arena,France,Allemagne,1,0,win,Euro 2020  (Groupe F)
+48,2023-09-12,Allemagne,Dortmund,Signal Iduna Park,Allemagne,France,2,1,loss,Match amical
+49,1974-11-16,France,Paris,Parc des Princes,France,RDA,2,2,draw,Qualifications pour l'Euro 1976
+50,1975-10-10,Allemagne de l'Est,Leipzig,Zentralstadion,RDA,France,2,1,loss,Qualifications pour l'Euro 1976
+51,1984-12-08,France,Paris,Parc des Princes,France,RDA,2,0,win,Qualifications pour la Coupe du monde 1986
+52,1985-09-11,Allemagne de l'Est,Leipzig,Zentralstadion,RDA,France,2,0,loss,Qualifications pour la Coupe du monde 1986
+53,1986-11-19,Allemagne de l'Est,Leipzig,Zentralstadion,RDA,France,0,0,draw,Qualifications pour l'Euro 1988
+54,1987-11-18,France,Paris,Parc des Princes,France,RDA,0,1,loss,Qualifications pour l'Euro 1988
+55,1990-01-24,Koweït,Koweït (Stade Al-Sadaqua Walsalam,en,France,RDA,3,0,win,Tournoi du Koweït 1990 (amical)
+56,1998-10-14,France,Saint-Denis,Stade de France,France,Andorre,2,0,win,Qualifications pour l'Euro 2000
+57,1999-06-09,Espagne,Barcelone,Estadi Olímpic de Montjuïc,Andorre,France,0,1,win,Qualifications pour l'Euro 2000
+58,2004-05-28,France,Montpellier,Stade de la Mosson,France,Andorre,4,0,win,Match amical
+59,2019-06-11,Andorre,Andorre-la-Vieille,Estadi Nacional,Andorre,France,0,4,win,Qualifications pour l'Euro 2020
+60,2019-09-10,France,Saint-Denis,Stade de France,France,Andorre,3,0,win,Qualifications pour l'Euro 2020
+61,1923-05-10,France,Paris,Stade Pershing,France,Angleterre,1,4,loss,Match amical
+62,1924-05-17,France,Paris,Stade Pershing,France,Angleterre,1,3,loss,Match amical
+63,1925-05-21,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,2,3,loss,Match amical
+64,1927-05-26,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,0,6,loss,Match amical
+65,1928-05-17,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,1,5,loss,Match amical
+66,1929-05-09,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,1,4,loss,Match amical
+67,1931-05-14,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,5,2,win,Match amical
+68,1933-12-06,Angleterre,Londres,White Hart Lane,Angleterre,France,4,1,loss,Match amical
+69,1938-05-26,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,2,4,loss,Match amical
+70,1945-05-26,Angleterre,Londres,Stade de Wembley,Angleterre,France,2,2,draw,Match amical
+71,1946-05-19,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,2,1,win,Match amical
+72,1947-05-03,Angleterre,Londres,Arsenal Stadium,Angleterre,France,3,0,loss,Match amical
+73,1949-05-22,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,1,3,loss,Match amical
+74,1951-10-03,Angleterre,Londres,Arsenal Stadium,Angleterre,France,2,2,draw,Match amical
+75,1955-05-15,France,Colombes,Stade olympique Yves-du-Manoir,France,Angleterre,1,0,win,Match amical
+76,1957-11-27,Angleterre,Londres,Stade de Wembley,Angleterre,France,4,0,loss,Match amical
+77,1962-10-20,Angleterre,Sheffield,Hillsborough,Angleterre,France,1,1,draw,Qualifications pour l'Euro 1964
+78,1963-02-27,France,Paris,Parc des Princes,France,Angleterre,5,2,win,Qualifications pour l'Euro 1964
+79,1966-07-20,Angleterre,Londres,Stade de Wembley,Angleterre,France,2,0,loss,Coupe du monde 1966 (Groupe 1)
+80,1969-03-12,Angleterre,Londres,Stade de Wembley,Angleterre,France,5,0,loss,Match amical
+81,1982-06-16,Espagne,Bilbao (Stade San Mamés,1913,Angleterre,France,3,1,loss,Coupe du monde 1982 (Groupe 4 - 1er tour)
+82,1984-02-29,France,Paris,Parc des Princes,France,Angleterre,2,0,win,Match amical
+83,1992-02-19,Angleterre,Londres,Stade de Wembley,Angleterre,France,2,0,loss,Match amical
+84,1992-06-14,Suède,Malmö,Malmö Stadion,Angleterre,France,0,0,draw,Euro 1992 (Groupe 1)
+85,1997-06-07,France,Montpellier,Stade de la Mosson,France,Angleterre,0,1,loss,Tournoi de France 1997 (amical)
+86,1999-02-10,Angleterre,Londres,Stade de Wembley,Angleterre,France,0,2,win,Match amical
+87,2000-09-02,France,Saint-Denis,Stade de France,France,Angleterre,1,1,draw,Match amical
+88,2004-06-13,Portugal,Lisbonne,Estádio da Luz,France,Angleterre,2,1,win,Euro 2004 (Groupe B)
+89,2008-03-26,France,Saint-Denis,Stade de France,France,Angleterre,1,0,win,Match amical
+90,2010-11-17,Angleterre,Londres,Stade de Wembley,Angleterre,France,1,2,win,Match amical
+91,2012-06-11,Ukraine,Donetsk,Donbass Arena,France,Angleterre,1,1,draw,Euro 2012 (Groupe D)
+92,2015-11-17,Angleterre,Londres,Stade de Wembley,Angleterre,France,2,0,loss,Match amical
+93,2017-06-13,France,Saint-Denis,Stade de France,France,Angleterre,3,2,win,Match amical
+94,2022-12-10,Qatar,Al-Khor,Stade Al-Bayt,Angleterre,France,1,2,win,Coupe du monde 2022 (Quart de finale)
+95,1906-11-01,France,Paris,Parc des Princes,France,Angleterre amateur,0,15,loss,Match amical
+96,1908-03-23,Angleterre,Londres,Royal Park,Angleterre amateur,France,12,0,loss,Match amical
+97,1909-05-22,France,Gentilly,Stade de la F.G.S.P.F,France,Angleterre amateur,0,11,loss,Match amical
+98,1910-04-16,Angleterre,Brighton,Goldstone Ground,Angleterre amateur,France,10,1,loss,Match amical
+99,1911-03-23,France,Saint-Ouen,Stade de Paris,France,Angleterre amateur,0,3,loss,Match amical
+100,1913-02-27,France,Colombes,Stade du Matin,France,Angleterre amateur,1,4,loss,Match amical
+101,1920-04-05,France,Le Petit-Quevilly,Stade des Bruyères,France,Angleterre amateur,0,5,loss,Match amical
+102,1921-05-05,France,Paris,Stade Pershing,France,Angleterre amateur,2,1,win,Match amical
+103,1998-06-18,France,Saint-Denis,Stade de France,France,Arabie saoudite,4,0,win,Coupe du monde 1998 (Groupe C)
+104,1930-07-15,Uruguay,Montevideo,Estadio Gran Parque Central,Argentine,France,1,0,loss,Coupe du monde 1930 (Groupe 1)
+105,1965-06-03,France,Paris,Parc des Princes,France,Argentine,0,0,draw,Match amical
+106,1971-01-08,Argentine,Buenos Aires,La Bombonera,Argentine,France,3,4,win,Match amical
+107,1971-01-12,Argentine,Mar del Plata (Estadio General San Martin,es,Argentine,France,2,0,loss,Match amical
+108,1972-06-25,Brésil,Salvador,Stade Octávio-Mangabeira,Argentine,France,0,0,draw,Coupe de l'Indépendance du Brésil (amical)
+109,1974-05-18,France,Paris,Parc des Princes,France,Argentine,0,1,loss,Match amical
+110,1977-06-26,Argentine,Buenos Aires,La Bombonera,Argentine,France,0,0,draw,Match amical
+111,1978-06-06,Argentine,Buenos Aires,Estadio Monumental Antonio Vespucio Liberti,Argentine,France,2,1,loss,Coupe du monde 1978 (Groupe 1 - 1er tour)
+112,1986-03-26,France,Paris,Parc des Princes,France,Argentine,2,0,win,Match amical
+113,2007-02-07,France,Saint-Denis,Stade de France,France,Argentine,0,1,loss,Match amical
+114,2009-02-11,France,Marseille,stade Vélodrome,France,Argentine,0,2,loss,Match amical
+115,2018-06-30,Russie,Kazan,Kazan Arena,France,Argentine,4,3,win,Coupe du monde 2018 (Huitième de finale)
+116,2022-12-18,Qatar,Lusail,Stade de Lusail,Argentine,France,3,3,loss,Coupe du monde 2022 (Finale)
+117,1996-06-05,France,Villeneuve-d'Ascq,Stadium Nord,France,Arménie,2,0,win,Match amical
+118,1999-03-31,France,Saint-Denis,Stade de France,France,Arménie,2,0,win,Qualifications pour l'Euro 2000
+119,1999-09-08,Arménie,Erevan,Stade Hrazdan,Arménie,France,2,3,win,Qualifications pour l'Euro 2000
+120,2014-10-14,Arménie,Erevan,Stade Républicain Vazgen-Sargsian,Arménie,France,0,3,win,Match amical
+121,2015-10-08,France,Nice,Allianz Riviera,France,Arménie,4,0,win,Match amical
+122,1994-05-26,Japon,Kobe,Stade du Mémorial de l'Universiade,Australie,France,0,1,win,Coupe Kirin 1994 (Amical)
+123,2001-06-01,Corée du Sud,Daegu,Stade de la Coupe du monde de Daegu,Australie-,France,1,0,loss,Coupe des confédérations 2001 (Groupe A)
+124,2001-11-11,Australie,Melbourne,Melbourne Cricket Ground,Australie,France,1,1,draw,Match amical
+125,2013-10-11,France,Paris,Parc des Princes,France,Australie,6,0,win,Match amical
+126,2018-06-16,Russie,Kazan,Kazan Arena,France,Australie,2,1,win,Coupe du monde 2018 (Groupe C)
+127,2022-11-22,Qatar,Al Wakrah,Stade Al-Janoub,France,Australie,4,1,win,Coupe du monde 2022 (Groupe D)
+128,1925-04-19,France,Paris,Stade Pershing,France,Autriche,0,4,loss,Match amical
+129,1926-05-30,Autriche,Vienne,Simmeringer Sportplatz,Autriche,France,4,1,loss,Match amical
+130,1933-02-12,France,Paris,Parc des Princes,France,Autriche,0,4,loss,Match amical
+131,1934-05-27,Italie,Turin,Stade olympique de Turin,Autriche,France,3,2,loss,Coupe du monde 1934 (Huitième de finale)
+132,1937-01-24,France,Paris,Parc des Princes,France,Autriche,1,2,loss,Match amical
+133,1945-12-06,Autriche,Vienne,Praterstadion,Autriche,France,4,1,loss,Match amical
+134,1946-05-05,France,Colombes,Stade olympique Yves-du-Manoir,France,Autriche,3,1,win,Match amical
+135,1951-11-01,France,Colombes,Stade olympique Yves-du-Manoir,France,Autriche,2,2,draw,Match amical
+136,1952-10-19,Autriche,Vienne,Praterstadion,Autriche,France,1,2,win,Match amical
+137,1956-03-25,France,Colombes,Stade olympique Yves-du-Manoir,France,Autriche,3,1,win,Match amical
+138,1958-10-05,Autriche,Vienne,Praterstadion,Autriche,France,1,2,win,Match amical
+139,1959-12-13,France,Colombes,Stade olympique Yves-du-Manoir,France,Autriche,5,2,win,Qualifications pour l'Euro 1960
+140,1960-03-27,Autriche,Vienne,Praterstadion,Autriche,France,2,4,win,Qualifications pour l'Euro 1960
+141,1965-03-24,France,Paris,Parc des Princes,France,Autriche,1,2,loss,Match amical
+142,1970-10-07,Autriche,Vienne,Praterstadion,Autriche,France,1,0,loss,Match amical
+143,1982-06-28,Espagne,Madrid,Stade Vicente Calderón,France,Autriche,1,0,win,Coupe du monde 1982 (Groupe D - Second tour)
+144,1984-03-28,France,Bordeaux,Parc Lescure,France,Autriche,1,0,win,Match amical
+145,1992-10-14,France,Paris,Parc des Princes,France,Autriche,2,0,win,Qualifications pour la Coupe du monde 1994
+146,1993-03-27,Autriche,Vienne,Stade Ernst-Happel,Autriche,France,0,1,win,Qualifications pour la Coupe du monde 1994
+147,1998-08-19,Autriche,Vienne,Stade Ernst-Happel,Autriche,France,2,2,draw,Match amical
+148,2007-03-28,France,Saint-Denis,Stade de France,France,Autriche,1,0,win,Match amical
+149,2008-09-06,Autriche,Vienne,Stade Ernst-Happel,Autriche,France,3,1,loss,Qualifications pour la Coupe du monde 2010
+150,2009-10-14,France,Saint-Denis,Stade de France,France,Autriche,3,1,win,Qualifications pour la Coupe du monde 2010
+151,1994-12-13,Turquie,Trabzon,Stade Hüseyin Avni Aker,Azerbaïdjan,France,0,2,win,Qualifications pour l'Euro 1996
+152,1995-09-06,France,Auxerre,Stade de l'Abbé-Deschamps,France,Azerbaïdjan,10,0,win,Qualifications pour l'Euro 1996
+153,1904-05-01,Belgique,Uccle,Stade du Vivier d'Oie,Belgique,France,3,3,draw,Match amical
+154,1905-05-07,Belgique,Uccle,Stade du Vivier d'Oie,Belgique,France,7,0,loss,Match amical
+155,1906-04-22,France,Saint-Cloud,Stade de la Faisanderie,France,Belgique,0,5,loss,Match amical
+156,1907-04-21,Belgique,Uccle,Stade du Vivier d'Oie,Belgique,France,1,2,win,Match amical
+157,1908-04-12,France,Colombes,Stade du Matin,France,Belgique,1,2,loss,Match amical
+158,1909-05-08,Belgique,Uccle,Stade du Vivier d'Oie,Belgique,France,5,2,loss,Match amical
+159,1910-04-03,France,Gentilly,Stade de la F.G.S.P.F,France,Belgique,0,4,loss,Match amical
+160,1911-04-30,Belgique,Uccle,Stade du Vivier d'Oie,Belgique,France,7,1,loss,Match amical
+161,1912-01-28,France,Saint-Ouen,Stade de Paris,France,Belgique,1,1,draw,Match amical
+162,1913-02-16,Belgique,Uccle,Stade du Vivier d'Oie,Belgique,France,3,0,loss,Match amical
+163,1914-01-25,France,Lille,Stade Victor-Boucquey,France,Belgique,4,3,win,Match amical
+164,1919-03-09,Belgique,Uccle,Stade du Vivier d'Oie,Belgique,France,2,2,draw,Match amical
+165,1920-03-28,France,Paris,Parc des Princes,France,Belgique,2,1,win,Match amical
+166,1921-03-06,Belgique,Bruxelles,Stade Joseph Marien,Belgique,France,3,1,loss,Match amical
+167,1922-01-15,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,2,1,win,Match amical
+168,1923-02-25,Belgique,Bruxelles,Stade Joseph Marien,Belgique,France,4,1,loss,Match amical
+169,1924-01-13,France,Montrouge,Stade Buffalo,France,Belgique,2,0,win,Match amical
+170,1924-11-11,Belgique,Molenbeek,Stade Edmond Machtens,Belgique,France,3,0,loss,Match amical
+171,1926-04-11,France,Paris,Stade Pershing,France,Belgique,4,3,win,Match amical
+172,1926-06-20,Belgique,Molenbeek,Stade Edmond Machtens,Belgique,France,2,2,draw,Match amical
+173,1928-04-15,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,2,3,loss,Match amical
+174,1929-05-26,Belgique,Rocourt,Stade Vélodrome de Rocourt,Belgique,France,4,1,loss,Match amical
+175,1930-04-13,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,1,6,loss,Match amical
+176,1930-05-25,Belgique,Ougrée,Stade du Pont d'Ougrée,Belgique,France,1,2,win,Match amical
+177,1930-12-07,France,Montrouge,Stade Buffalo,France,Belgique,2,2,draw,Match amical
+178,1932-05-01,Belgique,Bruxelles,Stade du Heysel,Belgique,France,5,2,loss,Match amical
+179,1933-03-26,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,3,0,win,Match amical
+180,1934-01-21,Belgique,Bruxelles,Stade du Heysel,Belgique,France,2,3,win,Match amical
+181,1935-04-14,Belgique,Bruxelles,Stade du Heysel,Belgique,France,1,1,draw,Match amical
+182,1936-03-08,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,3,0,win,Match amical
+183,1937-02-21,Belgique,Bruxelles,Stade du Heysel,Belgique,France,3,1,loss,Match amical
+184,1938-01-30,France,Paris,Parc des Princes,France,Belgique,5,3,win,Match amical
+185,1938-06-05,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,3,1,win,Coupe du monde 1938 (huitième de finale)
+186,1939-05-18,Belgique,Bruxelles,Stade du Heysel,Belgique,France,1,3,win,Match amical
+187,1944-12-24,France,Paris,Parc des Princes,France,Belgique,3,1,win,Match amical
+188,1945-12-15,Belgique,Molenbeek,Stade Edmond Machtens,Belgique,France,2,1,loss,Match amical
+189,1947-06-01,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,4,2,win,Match amical
+190,1948-06-06,Belgique,Bruxelles,Stade du Heysel,Belgique,France,4,2,loss,Match amical
+191,1948-10-17,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,3,3,draw,Match amical
+192,1950-06-04,Belgique,Bruxelles,Stade du Heysel,Belgique,France,4,1,loss,Match amical
+193,1950-11-01,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,3,3,draw,Match amical
+194,1952-05-22,Belgique,Bruxelles,Stade du Heysel,Belgique,France,1,2,win,Match amical
+195,1952-12-25,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,0,1,loss,Match amical
+196,1954-05-30,Belgique,Bruxelles,Stade du Heysel,Belgique,France,3,3,draw,Match amical
+197,1954-11-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,2,2,draw,Match amical
+198,1955-12-25,Belgique,Bruxelles,Stade du Heysel,Belgique,France,2,1,loss,Match amical
+199,1956-11-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,6,3,win,Qualifications pour la Coupe du monde 1958
+200,1957-10-27,Belgique,Bruxelles,Stade du Heysel,Belgique,France,0,0,draw,Qualifications pour la Coupe du monde 1958
+201,1959-03-01,France,Colombes,Stade olympique Yves-du-Manoir,France,Belgique,2,2,draw,Match amical
+202,1960-02-28,Belgique,Bruxelles,Stade du Heysel,Belgique,France,1,0,loss,Match amical
+203,1961-03-15,France,Paris,Parc des Princes,France,Belgique,1,1,draw,Match amical
+204,1961-10-18,Belgique,Bruxelles,Stade du Heysel,Belgique,France,3,0,loss,Match amical
+205,1963-12-25,France,Paris,Parc des Princes,France,Belgique,1,2,loss,Match amical
+206,1964-12-02,Belgique,Bruxelles,Stade du Heysel,Belgique,France,3,0,loss,Match amical
+207,1966-04-20,France,Paris,Parc des princes,France,Belgique,0,3,loss,Match amical
+208,1966-11-11,Belgique,Bruxelles,Stade du Heysel,Belgique,France,2,1,loss,Qualifications pour l'Euro 1968
+209,1967-10-28,France,Nantes,Stade Marcel-Saupin,France,Belgique,1,1,draw,Qualifications pour l'Euro 1968
+210,1970-11-15,Belgique,Bruxelles,Stade du Heysel,Belgique,France,1,2,win,Match amical
+211,1974-10-12,Belgique,Bruxelles,Stade du Heysel,Belgique,France,2,1,loss,Qualifications pour l'Euro 1976
+212,1975-11-15,France,Paris,Parc des Princes,France,Belgique,0,0,draw,Qualifications pour l'Euro 1976
+213,1981-04-29,France,Paris,Parc des Princes,France,Belgique,3,2,win,Qualifications pour la Coupe du monde 1982
+214,1981-09-09,Belgique,Bruxelles,Stade du Heysel,Belgique,France,2,0,loss,Qualifications pour la Coupe du monde 1982
+215,1983-05-31,Luxembourg,Luxembourg,Stade Josy-Barthel,Belgique,France,1,1,draw,Match amical
+216,1984-06-16,France,Nantes,Stade de la Beaujoire,France,Belgique,5,0,win,Euro 1984 (Groupe 1)
+217,1986-06-28,Mexique,Puebla,Stade Cuauhtémoc,France,Belgique,4,2,win,Coupe du monde 1986 (petite finale)
+218,1992-03-25,France,Paris,Parc des Princes,France,Belgique,3,3,draw,Match amical
+219,1996-03-27,Belgique,Bruxelles,Stade Roi Baudouin,Belgique,France,0,2,win,Match amical
+220,1998-05-27,Maroc,Casablanca,Stade Mohammed-V,France,Belgique,1,0,win,Tournoi Hassan II 1998 (amical)
+221,2002-05-18,France,Saint-Denis,Stade de France,France,Belgique,1,2,loss,Match amical
+222,2004-02-18,Belgique,Bruxelles,Stade Roi Baudouin,Belgique,France,0,2,win,Match amical
+223,2011-11-15,France,Saint-Denis,Stade de France,France,Belgique,0,0,draw,Match amical
+224,2013-08-14,Belgique,Bruxelles,Stade Roi Baudouin,Belgique,France,0,0,draw,Match amical
+225,2015-06-07,France,Saint-Denis,Stade de France,France,Belgique,3,4,loss,Match amical
+226,2018-07-10,Russie,Saint-Pétersbourg,Stade de Saint-Pétersbourg,France,Belgique,1,0,win,Coupe du monde 2018 (Demi-finale)
+227,2021-10-07,Italie,Turin,Juventus Stadium,Belgique,France,2,3,win,Ligue des nations 2020-2021 (Demi-finale)
+228,2010-09-03,France,Saint-Denis,Stade de France,France,Biélorussie,0,1,loss,Qualifications pour l'Euro 2012
+229,2011-06-03,Biélorussie,Minsk,Stade Dinamo de Minsk,Biélorussie,France,1,1,draw,Qualifications pour l'Euro 2012
+230,2012-09-11,France,Saint-Denis,Stade de France,France,Biélorussie,3,1,win,Qualifications pour la Coupe du monde 2014
+231,2013-09-10,Biélorussie,Gomel,Stade central,Biélorussie,France,2,4,win,Qualifications pour la Coupe du monde 2014
+232,2016-09-06,Biélorussie,Borisov,Borisov Arena,Biélorussie,France,0,0,draw,Qualifications pour la Coupe du monde 2018
+233,2017-10-10,France,Saint-Denis,Stade de France,France,Biélorussie,2,1,win,Qualifications pour la Coupe du monde 2018
+234,2019-06-02,France,Nantes,Stade de la Beaujoire,France,Bolivie,2,0,win,Match amical
+235,2004-08-18,France,Rennes,Stade de la route de Lorient,France,Bosnie-Herzégovine,1,1,draw,Match amical
+236,2006-08-16,Bosnie-Herzégovine,Sarajevo,Olimpijski stadion Koševo,Bosnie-Herzégovine,France,1,2,win,Match amical
+237,2010-09-07,Bosnie-Herzégovine,Sarajevo,Stade Asim Ferhatović Hase,Bosnie-Herzégovine,France,0,2,win,Qualifications pour l'Euro 2012
+238,2011-10-11,France,Saint-Denis,Stade de France,France,Bosnie-Herzégovine,1,1,draw,Qualifications pour l'Euro 2012
+239,2021-03-31,Bosnie-Herzégovine,Sarajevo,Stade Grbavica,Bosnie-Herzégovine,France,0,1,win,Qualifications pour la Coupe du monde 2022
+240,2021-09-01,France,Strasbourg,Stade de la Meinau,France,Bosnie-Herzégovine,1,1,draw,Qualifications pour la Coupe du monde 2022
+241,1963-04-28,France,Colombes,Stade olympique Yves-du-Manoir,France,Brésil,2,3,loss,Match amical
+242,1977-06-30,Brésil,Rio de Janeiro,Stade Maracanã,Brésil,France,2,2,draw,Match amical
+243,1978-04-01,France,Paris,Parc des Princes,France,Brésil,1,0,win,Match amical
+244,1981-05-15,France,Paris,Parc des Princes,France,Brésil,1,3,loss,Match amical
+245,1986-06-21,Mexique,Guadalajara,Stade Jalisco,Brésil,France,1,1,win,Coupe du monde 1986 (Quart de finale)
+246,1992-08-26,France,Paris,Parc des Princes,France,Brésil,0,2,loss,Match amical
+247,1997-06-03,France,Lyon,Stade de Gerland,France,Brésil,1,1,draw,Tournoi de France 1997 (amical)
+248,1998-07-12,France,Saint-Denis,Stade de France,Brésil,France,0,3,win,Coupe du monde 1998 (Finale)
+249,2001-06-07,Corée du Sud,Suwon,Stade de la Coupe du monde de Suwon,France,Brésil,2,1,win,Coupe des confédérations 2001 (Demi-finale)
+250,2004-05-20,France,Saint-Denis,Stade de France,France,Brésil,0,0,draw,Match amical (Centenaire FIFA)
+251,2006-07-01,Allemagne,Francfort-sur-le-Main,Commerzbank-Arena,Brésil,France,0,1,win,Coupe du monde 2006 (Quart de finale)
+252,2011-02-09,France,Saint-Denis,Stade de France,France,Brésil,1,0,win,Match amical
+253,2013-06-09,Brésil,Porto Alegre,Arena do Grêmio,Brésil,France,3,0,loss,Match amical
+254,2015-03-26,France,Saint-Denis,Stade de France,France,Brésil,1,3,loss,Match amical
+255,1932-06-09,Bulgarie,Sofia (Stade Younak,en,Bulgarie,France,3,5,win,Match amical
+256,1938-03-24,France,Paris,Parc des Princes,France,Bulgarie,6,1,win,Match amical
+257,1957-12-25,France,Paris,Parc des Princes,France,Bulgarie,2,2,draw,Match amical
+258,1959-10-11,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,1,0,loss,Match amical
+259,1960-12-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Bulgarie,3,0,win,Qualifications pour la Coupe du monde 1962
+260,1961-11-12,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,1,0,loss,Qualifications pour la Coupe du monde 1962
+261,1961-12-16,Italie,Milan,Stade San Siro,Bulgarie,France,1,0,loss,Qualifications pour la Coupe du monde 1962 (barrage)
+262,1963-09-29,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,1,0,loss,Qualifications pour l'Euro 1964
+263,1963-10-26,France,Paris,Parc des Princes,France,Bulgarie,3,1,win,Qualifications pour l'Euro 1964
+264,1970-04-08,France,Le Petit-Quevilly,Stade Robert-Diochon,France,Bulgarie,1,1,draw,Match amical
+265,1971-11-10,France,Nantes,Stade Marcel-Saupin,France,Bulgarie,2,1,win,Qualifications pour l'Euro 1972
+266,1971-12-04,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,2,1,loss,Qualifications pour l'Euro 1972
+267,1976-10-09,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,2,2,draw,Qualifications pour la Coupe du monde 1978
+268,1977-11-16,France,Paris,Parc des Princes,France,Bulgarie,3,1,win,Qualifications pour la Coupe du monde 1978
+269,1982-05-15,France,Lyon,Stade de Gerland,France,Bulgarie,0,0,draw,Match amical
+270,1984-11-21,France,Paris,Parc des Princes,France,Bulgarie,1,0,win,Qualifications pour la Coupe du monde 1986
+271,1985-05-02,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,2,0,loss,Qualifications pour la Coupe du monde 1986
+272,1992-09-09,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,2,0,loss,Qualifications pour la Coupe du monde 1994
+273,1993-11-17,France,Paris,Parc des Princes,France,Bulgarie,1,2,loss,Qualifications pour la Coupe du monde 1994
+274,1996-06-18,Angleterre,Newcastle,St James' Park,France,Bulgarie,3,1,win,Euro 1996 (Groupe B)
+275,2016-10-07,France,Saint-Denis,Stade de France,France,Bulgarie,4,1,win,Qualifications pour la Coupe du monde 2018
+276,2017-10-07,Bulgarie,Sofia,Stade national Vassil-Levski,Bulgarie,France,0,1,win,Qualifications pour la Coupe du monde 2018
+277,2021-06-08,France,Saint-Denis,Stade de France,France,Bulgarie,3,0,win,Match amical
+278,1972-06-14,Brésil,Salvador,Stade Octávio-Mangabeira,France,CAF,2,0,win,Coupe de l'Indépendance du Brésil (amical)
+279,2000-10-04,France,Saint-Denis,Stade de France,France,Cameroun,1,1,draw,Match amical
+280,2003-06-29,France,Saint-Denis,Stade de France,Cameroun,France,0,1,win,Coupe des confédérations 2003 (Finale)
+281,2016-05-30,France,Nantes,Stade de la Beaujoire,France,Cameroun,3,2,win,Match amical
+282,1986-06-01,Mexique,León,Estadio Nou Camp,France,Canada,1,0,win,Coupe du monde 1986 (Groupe C)
+283,1930-07-19,Uruguay,Montevideo,Stade Centenario,Chili,France,1,0,loss,Coupe du monde 1930 (Groupe 1)
+284,1960-03-16,France,Paris,Parc des Princes,France,Chili,6,0,win,Match amical
+285,1994-03-22,France,Lyon,Stade de Gerland,France,Chili,3,1,win,Match amical
+286,2001-09-01,Chili,Santiago,Estadio Nacional de Chile,Chili,France,2,1,loss,Match amical
+287,2011-08-10,France,Montpellier,Stade de la Mosson,France,Chili,1,1,draw,Match amical
+288,2006-06-07,France,Saint-Étienne,Stade Geoffroy-Guichard,France,Chine,3,1,win,Match amical
+289,2010-06-04,France,Saint-Pierre,Stade Michel-Volnay,France,Chine,0,1,loss,Match amical
+290,1980-10-11,Chypre,Limassol,stade Tsirion,Chypre,France,0,7,win,Qualifications pour la Coupe du monde 1982
+291,1981-12-05,France,Paris,Parc des Princes,France,Chypre,4,0,win,Qualifications pour la Coupe du monde 1982
+292,1988-10-22,Chypre,Engomi,stade Makarios,Chypre,France,1,1,draw,Qualifications pour la Coupe du monde 1990
+293,1989-11-18,France,Toulouse,Stadium municipal,France,Chypre,2,0,win,Qualifications pour la Coupe du monde 1990
+294,2002-09-07,Chypre,Strovolos,Stade GSP,Chypre,France,1,2,win,Qualifications pour l'Euro 2004
+295,2003-09-06,France,Saint-Denis,Stade de France,France,Chypre,5,0,win,Qualifications pour l'Euro 2004
+296,2004-10-13,Chypre,Strovolos,Stade GSP,Chypre,France,0,2,win,Qualifications pour la Coupe du monde 2006
+297,2005-10-12,France,Saint-Denis,Stade de France,France,Chypre,4,0,win,Qualifications pour la Coupe du monde 2006
+298,1972-06-18,Brésil,Salvador,Stade Octávio-Mangabeira,France,Colombie,3,2,win,Coupe de l'Indépendance du Brésil (amical)
+299,2003-06-18,France,Lyon,Stade de Gerland,France,Colombie,1,0,win,Coupe des confédérations 2003 (Groupe A)
+300,2008-06-03,France,Saint-Denis,Stade de France,France,Colombie,1,0,win,Match amical
+301,2018-03-23,France,Saint-Denis,Stade de France,France,Colombie,2,3,loss,Match amical
+302,1972-06-11,Brésil,Salvador,Stade Octávio-Mangabeira,France,CONCACAF,5,0,win,Coupe de l'Indépendance du Brésil (amical)
+303,2001-05-30,Corée du Sud,Daegu,Stade de la Coupe du monde de Daegu,Corée du Sud,France,0,5,win,Coupe des confédérations 2001 (Groupe A)[6]
+304,2002-05-26,Corée du Sud,Suwon,Stade de la Coupe du monde de Suwon,Corée du Sud,France,2,3,win,Match amical
+305,2006-06-18,Allemagne,Leipzig,Zentralstadion,France,Corée du Sud,1,1,draw,Coupe du monde 2006 (Groupe G)
+306,2005-11-09,France,Fort-de-France,Stade de Dillon,France,Costa Rica,3,2,win,Match amical
+307,2010-05-26,France,Lens,Stade Félix-Bollaert,France,Costa Rica,2,1,win,Match amical
+308,1998-07-08,France,Saint-Denis,Stade de France,France,Croatie,2,1,win,Coupe du monde 1998 (Demi-finale)
+309,1999-11-13,France,Saint-Denis,Stade de France,France,Croatie,3,0,win,Match amical
+310,2000-05-28,Croatie,Zagreb,Stade Maksimir,Croatie,France,0,2,win,Match amical
+311,2004-06-17,Portugal,Leiria,Stade municipal de Leiria - Dr. Magalhães Pessoa,Croatie,France,2,2,draw,Euro 2004 (Groupe B)
+312,2011-03-29,France,Saint-Denis,Stade de France,France,Croatie,0,0,draw,Match amical
+313,2018-07-15,Russie,Moscou,Stade Loujniki,France,Croatie,4,2,win,Coupe du monde 2018 (Finale)
+314,2020-09-08,France,Saint-Denis,Stade de France,France,Croatie,4,2,win,"Ligue des nations 2020-2021 (Ligue A, Groupe 3)"
+315,2020-10-14,Croatie,Zagreb,Stade Maksimir,Croatie,France,1,2,win,"Ligue des nations 2020-2021 (Ligue A, Groupe 3)"
+316,1908-10-19,Angleterre,Londres,White City Stadium,Danemark,France,9,0,loss,Jeux olympiques 1908(Quart de finale)
+317,1908-10-22,Angleterre,Londres,White City Stadium,Danemark,France,17,1,loss,Jeux olympiques 1908 (Demi-finale)
+318,1973-11-21,France,Paris,Parc des Princes,France,Danemark,3,0,win,Match amical
+319,1976-09-01,Danemark,Copenhague (Københavns Idrætspark,en,Danemark,France,1,1,draw,Match amical
+320,1983-09-07,Danemark,Copenhague,Københavns Idrætspark,Danemark,France,3,1,loss,Match amical
+321,1984-06-12,France,Paris,Parc des Princes,France,Danemark,1,0,win,Euro 1984 (Groupe 1)
+322,1992-06-17,Suède,Malmö,Malmö Stadion,Danemark,France,2,1,loss,Euro 1992 (Groupe 1)
+323,1996-11-09,Danemark,Copenhague,Parken Stadium,Danemark,France,1,0,loss,Match amical
+324,1998-06-24,France,Lyon,Stade de Gerland,France,Danemark,2,1,win,Coupe du monde 1998 (Groupe C)
+325,2000-06-11,Belgique,Bruges,Stade Jan-Breydel,France,Danemark,3,0,win,Euro 2000 (Groupe D)
+326,2001-08-15,France,Nantes,Stade de la Beaujoire,France,Danemark,1,0,win,Match amical
+327,2002-06-11,Corée du Sud,Incheon,Incheon Munhak Stadium,Danemark,France,2,0,loss,Coupe du monde 2002 (Groupe A)
+328,2006-05-31,France,Lens,Stade Félix-Bollaert,France,Danemark,2,0,win,Match amical
+329,2015-03-29,France,Saint-Étienne,Stade Geoffroy-Guichard,France,Danemark,2,0,win,Match amical
+330,2015-10-11,Danemark,Copenhague,Parken Stadium,Danemark,France,1,2,win,Match amical
+331,2018-06-26,Russie,Moscou,Stade Loujniki,Danemark,France,0,0,draw,Coupe du monde 2018 (Groupe C)
+332,2022-06-03,France,Saint-Denis,Stade de France,France,Danemark,1,2,loss,"Ligue des nations 2022-2023 (Ligue A, Groupe 1)"
+333,2022-09-25,Danemark,Copenhague,Parken Stadium,Danemark,France,2,0,loss,"Ligue des nations 2022-2023 (Ligue A, Groupe 1)"
+334,2022-11-26,Qatar,Doha,Stade 974,France,Danemark,2,1,win,Coupe du monde 2022 (Groupe D)
+335,1930-05-18,France,Colombes,Stade olympique Yves-du-Manoir,France,Écosse,0,2,loss,Match amical
+336,1932-05-08,France,Colombes,Stade olympique Yves-du-Manoir,France,Écosse,1,3,loss,Match amical
+337,1948-05-23,France,Colombes,Stade olympique Yves-du-Manoir,France,Écosse,3,0,win,Match amical
+338,1949-04-27,Écosse,Glasgow,Hampden Park,Écosse,France,2,0,loss,Match amical
+339,1950-05-27,France,Colombes,Stade olympique Yves-du-Manoir,France,Écosse,0,1,loss,Match amical
+340,1951-05-16,Écosse,Glasgow,Hampden Park,Écosse,France,1,0,loss,Match amical
+341,1958-06-15,Suède,Örebro,Behrn Arena,France,Écosse,2,1,win,Coupe du monde 1958 (Groupe 2)
+342,1984-06-01,France,Marseille,stade Vélodrome,France,Écosse,2,0,win,Match amical
+343,1989-03-08,Écosse,Glasgow,Hampden Park,Écosse,France,2,0,loss,Qualifications pour la Coupe du monde 1990
+344,1989-10-11,France,Paris,Parc des Princes,France,Écosse,3,0,win,Qualifications pour la Coupe du monde 1990
+345,1997-11-12,France,Saint-Étienne,Stade Geoffroy-Guichard,France,Écosse,2,1,win,Match amical
+346,2000-03-29,Écosse,Glasgow,Hampden Park,Écosse,France,0,2,win,Match amical
+347,2002-03-27,France,Saint-Denis,Stade de France,France,Écosse,5,0,win,Match amical
+348,2006-10-07,Écosse,Glasgow,Hampden Park,Écosse,France,1,0,loss,Qualifications pour l'Euro 2008
+349,2007-09-12,France,Paris,Parc des Princes,France,Écosse,0,1,loss,Qualifications pour l'Euro 2008
+350,2016-06-04,France,Longeville-lès-Metz,Stade Saint-Symphorien,France,Écosse,3,0,win,Match amical
+351,2023-10-17,France,Villeneuve-d'Ascq,Stade Pierre-Mauroy,France,Écosse,4,1,win,Match amical
+352,2003-04-30,France,Saint-Denis,Stade de France,France,Égypte,5,0,win,Match amical
+353,2008-05-27,France,Grenoble,Stade des Alpes,France,Équateur,2,0,win,Match amical
+354,2014-06-25,Brésil,Rio de Janeiro,Stade Maracanã,Équateur,France,0,0,draw,Coupe du monde 2014 (Groupe E)
+355,1922-04-30,France,Le Bouscat,Stade Sainte-Germaine,France,Espagne,0,4,loss,Match amical
+356,1923-01-28,Espagne,Saint-Sébastien,Stade d'Atocha,Espagne,France,3,0,loss,Match amical
+357,1927-05-22,France,Colombes,Stade olympique Yves-du-Manoir,France,Espagne,1,4,loss,Match amical
+358,1929-04-14,Espagne,Saragosse,Stade de Torrero,Espagne,France,8,1,loss,Match amical
+359,1933-04-23,France,Colombes,Stade olympique Yves-du-Manoir,France,Espagne,1,0,win,Match amical
+360,1935-01-27,Espagne,Chamartín de la Rosa,Stade de Chamartín,Espagne,France,2,0,loss,Match amical
+361,1942-03-15,Espagne,Séville (Stade Nervión,en,Espagne,France,4,0,loss,Match amical
+362,1949-06-19,France,Colombes,Stade olympique Yves-du-Manoir,France,Espagne,1,5,loss,Match amical
+363,1955-03-17,Espagne,Madrid,Stade Santiago Bernabéu,Espagne,France,1,2,win,Match amical
+364,1958-03-13,France,Paris,Parc des Princes,France,Espagne,2,2,draw,Match amical
+365,1959-12-17,France,Paris,Parc des Princes,France,Espagne,4,3,win,Match amical
+366,1961-04-02,Espagne,Madrid,Stade Santiago Bernabéu,Espagne,France,2,0,loss,Match amical
+367,1961-12-10,France,Colombes,Stade olympique Yves-du-Manoir,France,Espagne,1,1,draw,Match amical
+368,1963-01-09,Espagne,Barcelone,Camp Nou,Espagne,France,0,0,draw,Match amical
+369,1968-10-17,France,Lyon,Stade de Gerland,France,Espagne,1,3,loss,Match amical
+370,1971-03-17,Espagne,Valence,Stade de Mestalla,Espagne,France,2,2,draw,Match amical
+371,1978-11-08,France,Paris,Parc des Princes,France,Espagne,1,0,win,Match amical
+372,1981-02-18,Espagne,Madrid,Stade Vicente Calderón,Espagne,France,1,0,loss,Match amical
+373,1983-10-05,France,Paris,Parc des Princes,France,Espagne,1,1,draw,Match amical
+374,1984-06-27,France,Paris,Parc des Princes,France,Espagne,2,0,win,Euro 1984 (Finale)
+375,1988-03-23,France,Bordeaux,Parc Lescure,France,Espagne,2,1,win,Match amical
+376,1991-02-20,France,Paris,Parc des Princes,France,Espagne,3,1,win,Qualifications pour l'Euro 1992
+377,1991-10-12,Espagne,Séville,Stade Benito-Villamarín,Espagne,France,1,2,win,Qualifications pour l'Euro 1992
+378,1996-06-15,Angleterre,Leeds,Elland Road,France,Espagne,1,1,draw,Euro 1996 (Groupe B)
+379,1998-01-28,France,Saint-Denis,Stade de France,France,Espagne,1,0,win,Match amical (Inauguration du Stade de France)
+380,2000-06-25,Belgique,Bruges,Stade Jan-Breydel,Espagne,France,1,2,win,Euro 2000 (Quart de finale)
+381,2001-03-28,Espagne,Valence,Stade de Mestalla,Espagne,France,2,1,loss,Match amical
+382,2006-06-27,Allemagne,Hanovre,AWD-Arena,Espagne,France,1,3,win,Coupe du monde 2006 (Huitième de finale)
+383,2008-02-06,Espagne,Malaga,Stade de la Rosaleda,Espagne,France,1,0,loss,Match amical
+384,2010-03-03,France,Saint-Denis,Stade de France,France,Espagne,0,2,loss,Match amical
+385,2012-06-23,Ukraine,Donetsk,Donbass Arena,Espagne,France,2,0,loss,Euro 2012 (Quart de finale)
+386,2012-10-16,Espagne,Madrid,Stade Vicente Calderón,Espagne,France,1,1,draw,Qualifications pour la Coupe du monde 2014
+387,2013-03-26,France,Saint-Denis,Stade de France,France,Espagne,0,1,loss,Qualifications pour la Coupe du monde 2014
+388,2014-09-04,France,Saint-Denis,Stade de France,France,Espagne,1,0,win,Match amical
+389,2017-03-28,France,Saint-Denis,Stade de France,France,Espagne,0,2,loss,Match amical
+390,2021-10-10,Italie,Milan,Stade Giuseppe-Meazza,Espagne,France,1,2,win,Ligue des nations 2020-2021 (Finale)
+391,2012-06-05,France,Le Mans,MMArena,France,Estonie,4,0,win,Match amical
+392,1979-05-02,États-Unis,East Rutherford,Giants Stadium,États-Unis,France,0,6,win,Match amical
+393,1979-10-10,France,Paris,Parc des Princes,France,États-Unis,3,0,win,Match amical
+394,2011-11-11,France,Saint-Denis,Stade de France,France,États-Unis,1,0,win,Match amical
+395,2018-06-09,France,Décines-Charpieu,Parc Olympique lyonnais,France,États-Unis,1,1,draw,Match amical
+396,2004-09-08,Îles Féroé,Torshavn,Tórsvøllur,Îles Féroé,France,0,2,win,Qualifications pour la Coupe du monde 2006
+397,2005-09-03,France,Lens,Stade Félix-Bollaert,France,Îles Féroé,3,0,win,Qualifications pour la Coupe du monde 2006
+398,2006-10-11,France,Montbéliard,Stade Auguste-Bonal,France,Îles Féroé,5,0,win,Qualifications pour l'Euro 2008
+399,2007-10-13,Îles Féroé,Torshavn,Tórsvøllur,Îles Féroé,France,0,6,win,Qualifications pour l'Euro 2008
+400,2009-08-12,Îles Féroé,Torshavn,Tórsvøllur,Îles Féroé,France,0,1,win,Qualifications pour la Coupe du monde 2010
+401,2009-10-10,France,Guingamp,Stade de Roudourou,France,Îles Féroé,5,0,win,Qualifications pour la Coupe du monde 2010
+402,1960-09-25,Finlande,Helsinki,Stade olympique,Finlande,France,1,2,win,Qualifications pour la Coupe du monde 1962
+403,1961-09-28,France,Paris,Parc des Princes,France,Finlande,5,1,win,Qualifications pour la Coupe du monde 1962
+404,1992-11-14,France,Paris,Parc des Princes,France,Finlande,2,1,win,Qualifications pour la Coupe du monde 1994
+405,1993-09-08,Finlande,Tampere,Stade Ratina,Finlande,France,0,2,win,Qualifications pour la Coupe du monde 1994
+406,1996-05-29,France,Strasbourg,Stade de la Meinau,France,Finlande,2,0,win,Match amical
+407,1998-06-05,Finlande,Helsinki,Stade olympique,Finlande,France,0,1,win,Match amical
+408,2012-09-07,Finlande,Helsinki,Stade olympique,Finlande,France,0,1,win,Qualifications pour la Coupe du monde 2014
+409,2013-10-15,France,Saint-Denis,Stade de France,France,Finlande,3,0,win,Qualifications pour la Coupe du monde 2014
+410,2020-11-11,France,Saint-Denis,Stade de France,France,Finlande,0,2,loss,Match amical
+411,2021-09-07,France,Décines-Charpieu,Parc Olympique lyonnais,France,Finlande,2,0,win,Qualifications pour la Coupe du monde 2022
+412,2021-11-16,Finlande,Helsinki,Stade olympique,Finlande,France,0,2,win,Qualifications pour la Coupe du monde 2022
+413,2006-09-02,Géorgie,Tbilissi,Stade Boris-Paichadze,Géorgie,France,0,3,win,Qualifications pour l'Euro 2008
+414,2007-06-06,France,Auxerre,Stade de l'Abbé-Deschamps,France,Géorgie,1,0,win,Qualifications pour l'Euro 2008
+415,2013-03-22,France,Saint-Denis,Stade de France,France,Géorgie,3,1,win,Qualifications pour la Coupe du monde 2014
+416,2013-09-06,Géorgie,Tbilissi,Stade Boris-Paichadze,Géorgie,France,0,0,draw,Qualifications pour la Coupe du monde 2014
+417,2023-06-16,Portugal,Almancil,Stade de l'Algarve,Gibraltar,France,0,3,win,Qualifications pour l'Euro 2024
+418,2023-11-18,France,Nice,Allianz Riviera,France,Gibraltar,14,0,win,Qualifications pour l'Euro 2024
+419,1958-10-01,France,Paris,Parc des Princes,France,Grèce,7,1,win,Qualifications pour l'Euro 1960
+420,1958-12-03,Grèce,Athènes,Stade Apóstolos-Nikolaïdis,Grèce,France,1,1,draw,Qualifications pour l'Euro 1960
+421,1972-09-02,Grèce,Le Pirée,Stade Karaïskaki,Grèce,France,1,3,win,Match amical
+422,1973-09-08,France,Paris,Parc des Princes,France,Grèce,3,1,win,Match amical
+423,1980-02-27,France,Paris,Parc des Princes,France,Grèce,5,1,win,Match amical
+424,1996-02-21,France,Nîmes,Stade des Costières,France,Grèce,3,1,win,Match amical
+425,2004-06-25,Portugal,Lisbonne,Stade José Alvalade,France,Grèce,0,1,loss,Euro 2004 (Quart de finale)
+426,2006-11-15,France,Saint-Denis,Stade de France,France,Grèce,1,0,win,Match amical
+427,2023-06-19,France,Saint-Denis,Stade de France,France,Grèce,1,0,win,Qualifications pour l'Euro 2024
+428,2023-11-21,Grèce,Néa Filadélfia,Stade Agiá Sofiá,Grèce,France,2,2,draw,Qualifications pour l'Euro 2024
+429,2014-06-15,Brésil,Porto Alegre,Stade José-Pinheiro-Borda,France,Honduras,3,0,win,Coupe du monde 2014 (Groupe E)
+430,1911-01-01,France,Maisons-Alfort,Stade de Charentonneau,France,Hongrie,0,3,loss,Match amical
+431,1914-05-31,Royaume de Hongrie,Budapest,Stade Flórián Albert,Hongrie,France,5,1,loss,Match amical
+432,1924-06-04,France,Le Havre,Stade de la Cavée verte,France,Hongrie,0,1,loss,Match amical
+433,1927-06-12,Royaume de Hongrie,Budapest,Stade Flórián Albert,Hongrie,France,13,1,loss,Match amical
+434,1929-02-24,France,Colombes,Stade olympique Yves-du-Manoir,France,Hongrie,3,0,win,Match amical
+435,1935-05-19,France,Colombes,Stade olympique Yves-du-Manoir,France,Hongrie,2,0,win,Match amical
+436,1939-03-16,France,Paris,Parc des Princes,France,Hongrie,2,2,draw,Match amical
+437,1956-10-07,France,Colombes,Stade olympique Yves-du-Manoir,France,Hongrie,1,2,loss,Match amical
+438,1957-10-06,Hongrie,Budapest,Népstadion,Hongrie,France,2,0,loss,Match amical
+439,1962-11-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Hongrie,2,3,loss,Match amical
+440,1964-04-25,France,Colombes,Stade olympique Yves-du-Manoir,France,Hongrie,1,3,loss,Qualifications pour l'Euro 1964
+441,1964-05-23,Hongrie,Budapest,Népstadion,Hongrie,France,2,1,loss,Qualifications pour l'Euro 1964
+442,1966-09-28,Hongrie,Budapest,Népstadion,Hongrie,France,4,2,loss,Match amical
+443,1971-04-24,Hongrie,Budapest,Népstadion,Hongrie,France,1,1,draw,Qualifications pour l'Euro 1972
+444,1971-10-09,France,Colombes,Stade olympique Yves-du-Manoir,France,Hongrie,0,2,loss,Qualifications pour l'Euro 1972
+445,1975-03-26,France,Paris,Parc des Princes,France,Hongrie,2,0,win,Match amical
+446,1976-05-22,Hongrie,Budapest,Népstadion,Hongrie,France,1,0,loss,Match amical
+447,1978-06-10,Argentine,Mar del Plata,Stade José Maria Minella,France,Hongrie,3,1,win,Coupe du monde 1978 (Groupe 1 - 1er tour)
+448,1982-10-06,France,Paris,Parc des Princes,France,Hongrie,1,0,win,Match amical
+449,1986-06-09,Mexique,León,Estadio Nou Camp,France,Hongrie,3,0,win,Coupe du monde 1986 (Groupe C)
+450,1990-03-28,Hongrie,Budapest,Népstadion,Hongrie,France,1,3,win,Match amical
+451,2005-05-31,France,Longeville-lès-Metz,Stade Saint-Symphorien,France,Hongrie,2,1,win,Match amical
+452,2021-06-19,Hongrie,Budapest,Stade Ferenc-Puskás,Hongrie,France,1,1,draw,Euro 2020  (Groupe F)
+453,1978-05-11,France,Toulouse,Stadium municipal de Toulouse,France,Iran,2,1,win,Match amical
+454,1937-05-23,France,Colombes,Stade olympique Yves-du-Manoir,France,Irlande,0,2,loss,Match amical
+455,1952-11-16,Irlande,Dublin,Dalymount Park,Irlande,France,1,1,draw,Match amical
+456,1953-10-04,Irlande,Dublin,Dalymount Park,Irlande,France,3,5,win,Qualifications pour la Coupe du monde 1954
+457,1953-11-25,France,Paris,Parc des Princes,France,Irlande,1,0,win,Qualifications pour la Coupe du monde 1954
+458,1972-11-15,Irlande,Dublin,Dalymount Park,Irlande,France,2,1,loss,Qualifications pour la Coupe du monde 1974
+459,1973-05-19,France,Paris,Parc des Princes,France,Irlande,1,1,draw,Qualifications pour la Coupe du monde 1974
+460,1976-11-17,France,Paris,Parc des Princes,France,Irlande,2,0,win,Qualifications pour la Coupe du monde 1978
+461,1977-03-30,Irlande,Dublin,Lansdowne Road,Irlande,France,1,0,loss,Qualifications pour la Coupe du monde 1978
+462,1980-10-28,France,Paris,Parc des Princes,France,Irlande,2,0,win,Qualifications pour la Coupe du monde 1982
+463,1981-10-14,Irlande,Dublin,Lansdowne Road,Irlande,France,3,2,loss,Qualifications pour la Coupe du monde 1982
+464,1989-02-07,Irlande,Dublin,Dalymount Park,Irlande,France,0,0,draw,Match amical
+465,2004-10-09,France,Saint-Denis,Stade de France,France,Irlande,0,0,draw,Qualifications pour la Coupe du monde 2006
+466,2005-09-07,Irlande,Dublin,Lansdowne Road,Irlande,France,0,1,win,Qualifications pour la Coupe du monde 2006
+467,2009-11-14,Irlande,Dublin,Croke Park,Irlande,France,0,1,win,Qualifications pour la Coupe du monde 2010 (Barrage)
+468,2009-11-18,France,Saint-Denis,Stade de France,Irlande,France,1,1,win,Qualifications pour la Coupe du monde 2010 (Barrage)
+469,2016-06-26,France,Décines-Charpieu,Parc Olympique lyonnais,France,Irlande,2,1,win,Euro 2016 (Huitième de finale)
+470,2018-05-28,France,Saint-Denis,Stade de France,France,Irlande,2,0,win,Match amical
+471,2023-03-27,Irlande,Dublin,Aviva Stadium,Irlande,France,0,1,win,Qualifications pour l'Euro 2024
+472,2023-09-07,France,Paris,Parc des Princes,France,Irlande,2,0,win,Qualifications pour l'Euro 2024
+473,1921-02-08,France,Paris,Parc des Princes,France,Irlande amateur,1,2,loss,Match amical
+474,1928-02-21,France,Montrouge,Stade Buffalo,France,Irlande du Nord,4,0,win,Match amical
+475,1951-05-12,Irlande du Nord,Belfast,Windsor Park,Irlande du Nord,France,2,2,draw,Match amical
+476,1952-11-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Irlande du Nord,3,1,win,Match amical
+477,1958-06-19,Suède,Norrköping,Idrottsparken,France,Irlande du Nord,4,0,win,Coupe du monde 1958 (Quart de finale)
+478,1982-03-24,France,Paris,Parc des Princes,France,Irlande du Nord,4,0,win,Match amical
+479,1982-07-04,Espagne,Madrid,Stade Vicente Calderón,France,Irlande du Nord,4,1,win,Coupe du monde 1982 (Groupe D - Second tour)
+480,1986-02-26,France,Paris,Parc des Princes,France,Irlande du Nord,0,0,draw,Match amical
+481,1988-04-27,Irlande du Nord,Belfast,Windsor Park,Irlande du Nord,France,0,0,draw,Match amical
+482,1999-08-18,Irlande du Nord,Belfast,Windsor Park,Irlande du Nord,France,0,1,win,Match amical
+483,1957-06-02,France,Nantes,stade Malakoff,France,Islande,8,0,win,Qualifications pour la Coupe du monde 1958
+484,1957-09-01,Islande,Reykjavik,Laugardalsvöllur,Islande,France,1,5,win,Qualifications pour la Coupe du monde 1958
+485,1975-05-25,Islande,Reykjavik,Laugardalsvöllur,Islande,France,0,0,draw,Qualifications pour l'Euro 1976
+486,1975-09-03,France,Nantes,stade Marcel-Saupin,France,Islande,3,0,win,Qualifications pour l'Euro 1976
+487,1986-09-10,Islande,Reykjavik,Laugardalsvöllur,Islande,France,0,0,draw,Qualifications pour l'Euro 1988
+488,1987-04-29,France,Paris,Parc des Princes,France,Islande,2,0,win,Qualifications pour l'Euro 1988
+489,1990-09-05,Islande,Reykjavik,Laugardalsvöllur,Islande,France,1,2,win,Qualifications pour l'Euro 1992
+490,1991-11-20,France,Paris,Parc des Princes,France,Islande,3,1,win,Qualifications pour l'Euro 1992
+491,1998-09-05,Islande,Reykjavik,Laugardalsvöllur,Islande,France,1,1,draw,Qualifications pour l'Euro 2000
+492,1999-10-09,France,Saint-Denis,Stade de France,France,Islande,3,2,win,Qualifications pour l'Euro 2000
+493,2012-05-27,France,Valenciennes,Stade du Hainaut,France,Islande,3,2,win,Match amical
+494,2016-07-03,France,Saint-Denis,Stade de France,France,Islande,5,2,win,Euro 2016 (Quart de finale)
+495,2018-10-11,France,Guingamp,Stade du Roudourou,France,Islande,2,2,draw,Match amical
+496,2019-03-25,France,Saint-Denis,Stade de France,France,Islande,4,0,win,Qualifications pour l'Euro 2020
+497,2019-10-11,Islande,Reykjavik,Laugardalsvöllur,Islande,France,0,1,win,Qualifications pour l'Euro 2020
+498,1988-01-27,Israël,Ramat Gan,Stade Ramat Gan,Israël,France,1,1,draw,Match amical
+499,1993-02-17,Israël,Ramat Gan,Stade Ramat Gan,Israël,France,0,4,win,Qualifications pour la Coupe du monde 1994
+500,1993-10-13,France,Paris,Parc des Princes,France,Israël,2,3,loss,Qualifications pour la Coupe du monde 1994
+501,1995-03-29,Israël,Ramat Gan,Stade Ramat Gan,Israël,France,0,0,draw,Qualifications pour l'Euro 1996
+502,1995-11-15,France,Caen,stade Michel-d'Ornano,France,Israël,2,0,win,Qualifications pour l'Euro 1996
+503,2003-04-02,Italie,Palerme,stade Renzo-Barbera,Israël,France,1,2,win,Qualifications pour l'Euro 2004
+504,2003-10-11,France,Saint-Denis,Stade de France,France,Israël,3,0,win,Qualifications pour l'Euro 2004
+505,2004-09-04,France,Saint-Denis,Stade de France,France,Israël,0,0,draw,Qualifications pour la Coupe du monde 2006
+506,2005-03-29,Israël,Ramat Gan,Stade Ramat Gan,Israël,France,1,1,draw,Qualifications pour la Coupe du monde 2006
+507,1910-05-15,Italie,Milan,Arena Civica,Italie,France,6,2,loss,Match amical
+508,1911-04-09,France,Saint-Ouen,Stade de Paris,France,Italie,2,2,draw,Match amical
+509,1912-03-17,Italie,Turin,Stadio Piazza d'Armi,Italie,France,3,4,win,Match amical
+510,1913-01-12,France,Saint-Ouen,Stade de Paris,France,Italie,1,0,win,Match amical
+511,1914-03-29,Italie,Turin,Stadio Piazza d'Armi,Italie,France,2,0,loss,Match amical
+512,1920-01-18,Italie,Milan (Velodromo Sempione,it,Italie,France,9,4,loss,Match amical
+513,1920-08-29,Belgique,Anvers,Stade olympique d'Anvers,France,Italie,3,1,win,Jeux olympiques 1920 (Quart de finale)
+514,1921-02-20,France,Marseille,Stade de l'Huveaune,France,Italie,1,2,loss,Match amical
+515,1925-03-22,Italie,Turin,Stadio di Corso Marsiglia,Italie,France,7,0,loss,Match amical
+516,1927-04-24,France,Colombes,Stade olympique Yves-du-Manoir,France,Italie,3,3,draw,Match amical
+517,1928-05-29,Pays-Bas,Amsterdam,Stade olympique d'Amsterdam,France,Italie,3,4,loss,Jeux olympiques 1928 (Huitième de finale)
+518,1931-01-25,Italie,Bologne,Stade Renato-Dall'Ara,Italie,France,5,0,loss,Match amical
+519,1932-04-10,France,Colombes,Stade olympique Yves-du-Manoir,France,Italie,1,2,loss,Match amical
+520,1935-02-17,Italie,Rome,Stadio Nazionale del PNF,Italie,France,2,1,loss,Match amical
+521,1937-12-05,France,Paris,Parc des Princes,France,Italie,0,0,draw,Match amical
+522,1938-06-12,France,Colombes,Stade olympique Yves-du-Manoir,France,Italie,1,3,loss,Coupe du monde 1938 (Quart de finale)
+523,1938-12-04,Italie,Naples,Stadio Partenopeo,Italie,France,1,0,loss,Match amical
+524,1948-04-04,France,Colombes,Stade olympique Yves-du-Manoir,France,Italie,1,3,loss,Match amical
+525,1951-06-03,Italie,Gênes,Stade Luigi-Ferraris,Italie,France,4,1,loss,Match amical
+526,1954-04-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Italie,1,3,loss,Match amical
+527,1956-05-05,Italie,Bologne,Stade Renato-Dall'Ara,Italie,France,2,0,loss,Match amical
+528,1958-11-09,France,Colombes,Stade olympique Yves-du-Manoir,France,Italie,2,2,draw,Match amical
+529,1962-05-05,Italie,Florence,Stade Artemio-Franchi,Italie,France,2,1,loss,Match amical
+530,1966-03-19,France,Paris,Parc des Princes,France,Italie,0,0,draw,Match amical
+531,1978-02-08,Italie,Naples,Stade San Paolo,Italie,France,2,2,draw,Match amical
+532,1978-06-02,Argentine,Mar del Plata,Stade José Maria Minella,Italie,France,2,1,loss,Coupe du monde 1978 (Groupe 1 - 1er tour)
+533,1982-02-23,France,Paris,Parc des Princes,France,Italie,2,0,win,Match amical
+534,1986-06-17,Mexique,Mexico,Stade olympique universitaire,France,Italie,2,0,win,Coupe du monde 1986 (Huitième de finale)
+535,1994-02-16,Italie,Naples,Stade San Paolo,Italie,France,0,1,win,Match amical
+536,1997-06-11,France,Paris,Parc des Princes,France,Italie,2,2,draw,Tournoi de France 1997 (amical)
+537,1998-07-03,France,Saint-Denis,Stade de France,Italie,France,0,0,win,Coupe du monde 1998 (Quart de finale)
+538,2000-07-02,Pays-Bas,Rotterdam,Stade de Feyenoord,France,Italie,2,1,win,Euro 2000 (Finale)
+539,2006-07-09,Allemagne,Berlin,Stade olympique,Italie,France,1,1,loss,Coupe du monde 2006 (Finale)
+540,2006-09-06,France,Saint-Denis,Stade de France,France,Italie,3,1,win,Qualifications pour l'Euro 2008
+541,2007-09-08,Italie,Milan,Stade San Siro,Italie,France,0,0,draw,Qualifications pour l'Euro 2008
+542,2008-06-17,Suisse,Zurich,Stade du Letzigrund,France,Italie,0,2,loss,Euro 2008 (Groupe C)
+543,2012-11-14,Italie,Parme,Stade Ennio-Tardini,Italie,France,1,2,win,Match amical
+544,2016-09-01,Italie,Bari,Stade San Nicola,Italie,France,1,3,win,Match amical
+545,2018-06-01,France,Nice,Allianz Riviera,France,Italie,3,1,win,Match amical
+546,2014-06-08,France,Villeneuve-d'Ascq,Stade Pierre Mauroy,France,Jamaïque,8,0,win,Match amical
+547,1994-05-29,Japon,Tokyo,Stade olympique de Tōkyō,Japon,France,1,4,win,Coupe Kirin 1994 (Amical)
+548,2000-06-04,Maroc,Casablanca,Stade Mohammed V,Japon,France,2,2,draw,Tournoi Hassan II 2000 (amical)
+549,2001-03-24,France,Saint-Denis,Stade de France,France,Japon,5,0,win,Match amical
+550,2001-06-10,Japon,Yokohama,Yokohama International Stadium,Japon,France,0,1,win,Coupe des confédérations 2001 (Finale)
+551,2003-06-20,France,Saint-Étienne,Stade Geoffroy-Guichard,France,Japon,2,1,win,Coupe des confédérations 2003 (Groupe A)
+552,2012-10-12,France,Saint-Denis,Stade de France,France,Japon,0,1,loss,Match amical
+553,2021-03-28,Kazakhstan,Noursoultan,Astana Arena,Kazakhstan,France,0,2,win,Qualifications pour la Coupe du monde 2022
+554,2021-11-13,France,Paris,Parc des Princes,France,Kazakhstan,8,0,win,Qualifications pour la Coupe du monde 2022
+555,1982-06-21,Espagne,Valladolid,Stade José-Zorrilla,France,Koweït,4,1,win,Coupe du monde 1982 (Groupe 4 - 1er tour)
+556,1990-01-21,Koweït,Koweït (Stade Al-Sadaqua Walsalam,en,Koweït,France,0,1,win,Tournoi du Koweït 1990 (amical)
+557,1924-05-27,France,Saint-Ouen,Stade de Paris,France,Lettonie,7,0,win,Jeux olympiques 1924 (Huitième de finale)
+558,2007-03-24,Lituanie,Kaunas,stade S.-Darius-et-S.-Girėnas,Lituanie,France,0,1,win,Qualifications pour l'Euro 2008
+559,2007-10-17,France,Nantes,Stade de la Beaujoire,France,Lituanie,2,0,win,Qualifications pour l'Euro 2008
+560,2009-03-28,Lituanie,Kaunas,stade S.-Darius-et-S.-Girėnas,Lituanie,France,0,1,win,Qualifications pour la Coupe du monde 2010
+561,2009-04-01,France,Saint-Denis,Stade de France,France,Lituanie,1,0,win,Qualifications pour la Coupe du monde 2010
+562,1911-10-29,Luxembourg,Luxembourg,Stade du Racing Club Luxembourg,Luxembourg,France,1,4,win,Match amical
+563,1913-04-20,France,Saint-Ouen,Stade de Paris,France,Luxembourg,8,0,win,Match amical
+564,1914-02-08,Luxembourg,Luxembourg,Stade du Racing Club Luxembourg,Luxembourg,France,5,4,loss,Match amical
+565,1934-04-15,Luxembourg,Luxembourg,Stade Josy-Barthel,Luxembourg,France,1,6,win,Qualifications pour la Coupe du monde 1934
+566,1953-09-20,Luxembourg,Luxembourg,Stade Josy-Barthel,Luxembourg,France,1,6,win,Qualifications pour la Coupe du monde 1954
+567,1953-12-17,France,Paris,Parc des Princes,France,Luxembourg,8,0,win,Qualifications pour la Coupe du monde 1954
+568,1964-10-04,Luxembourg,Luxembourg,Stade Josy-Barthel,Luxembourg,France,0,2,win,Qualifications pour la Coupe du monde 1966
+569,1965-11-06,France,Marseille,stade Vélodrome,France,Luxembourg,4,1,win,Qualifications pour la Coupe du monde 1966
+570,1966-11-26,Luxembourg,Luxembourg,Stade Josy-Barthel,Luxembourg,France,0,3,win,Qualifications pour l'Euro 1968
+571,1967-12-23,France,Paris,Parc des Princes,France,Luxembourg,3,1,win,Qualifications pour l'Euro 1968
+572,1978-10-07,Luxembourg,Luxembourg,Stade Josy-Barthel,Luxembourg,France,1,3,win,Qualifications pour l'Euro 1980
+573,1979-02-25,France,Paris,Parc des Princes,France,Luxembourg,3,0,win,Qualifications pour l'Euro 1980
+574,1984-10-13,Luxembourg,Luxembourg,Stade Josy-Barthel,Luxembourg,France,0,4,win,Qualifications pour la Coupe du monde 1986
+575,1985-10-30,France,Paris,Parc des Princes,France,Luxembourg,6,0,win,Qualifications pour la Coupe du monde 1986
+576,2010-10-12,France,Longeville-lès-Metz,Stade Saint-Symphorien,France,Luxembourg,2,0,win,Qualifications pour l'Euro 2012
+577,2011-03-25,Luxembourg,Luxembourg,Stade Josy-Barthel,Luxembourg,France,0,2,win,Qualifications pour l'Euro 2012
+578,2002-10-16,Malte,La Valette,Ta'Qali Stadium,Malte,France,0,4,win,Qualifications pour l'Euro 2004
+579,2003-03-29,France,Lens,Stade Félix-Bollaert,France,Malte,6,0,win,Qualifications pour l'Euro 2004
+580,1988-02-05,Monaco,Monaco,Stade Louis II,France,Maroc,2,1,win,Tournoi de France 1988 (amical)
+581,1998-05-29,Maroc,Casablanca,Stade Mohammed V,Maroc,France,2,2,draw,Tournoi Hassan II 1998 (amical)
+582,1999-01-20,France,Marseille,stade Vélodrome,France,Maroc,1,0,win,Match amical
+583,2000-06-06,Maroc,Casablanca,Stade Mohammed V,Maroc,France,1,5,win,Tournoi Hassan II 2000 (amical)
+584,2007-11-16,France,Saint-Denis,Stade de France,France,Maroc,2,2,draw,Match amical
+585,2022-12-14,Qatar,Al-Khor,Stade Al-Bayt,France,Maroc,2,0,win,Coupe du monde 2022 (Demi-finale)
+586,1930-07-13,Uruguay,Montevideo,Estadio Pocitos,France,Mexique,4,1,win,Coupe du monde 1930 (Groupe 1)
+587,1954-06-19,Suisse,Genève,Stade des Charmilles,France,Mexique,3,2,win,Coupe du monde 1954 (Groupe 1)
+588,1966-07-13,Angleterre,Londres,Stade de Wembley,France,Mexique,1,1,draw,Coupe du monde 1966 (Groupe 1)
+589,1996-08-31,France,Paris,Parc des Princes,France,Mexique,2,0,win,Match amical
+590,2001-06-03,Corée du Sud,Ulsan,Stade d'Ulsan Munsu,France,Mexique,4,0,win,Coupe des confédérations 2001 (Groupe A)
+591,2006-05-27,France,Saint-Denis,Stade de France,France,Mexique,1,0,win,Match amical
+592,2010-06-17,Afrique du Sud,Polokwane,Peter Mokaba Stadium ,France,Mexique,0,2,loss,Coupe du monde 2010 (Groupe A)
+593,2019-03-22,Moldavie,Chișinău,Stade Zimbru,Moldavie,France,1,4,win,Qualifications pour l'Euro 2020
+594,2019-11-14,France,Saint-Denis,Stade de France,France,Moldavie,2,1,win,Qualifications pour l'Euro 2020
+595,2009-06-02,France,Saint-Étienne,Stade Geoffroy-Guichard,France,Nigeria,0,1,loss,Match amical
+596,2014-06-30,Brésil,Brasilia,Stade national de Brasilia Mané Garrincha,France,Nigeria,2,0,win,Coupe du monde 2014 (Huitième de finale)
+597,1923-10-28,France,Paris,Parc des Princes,France,Norvège,0,2,loss,Match amical
+598,1964-11-11,France,Paris,Parc des Princes,France,Norvège,1,0,win,Qualifications pour la Coupe du monde 1966
+599,1965-09-15,Norvège,Oslo,Ullevaal Stadion,Norvège,France,0,1,win,Qualifications pour la Coupe du monde 1966
+600,1968-11-06,France,Strasbourg,Stade de la Meinau,France,Norvège,0,1,loss,Qualifications pour la Coupe du monde 1970
+601,1969-09-10,Norvège,Oslo,Ullevaal Stadion,Norvège,France,1,3,win,Qualifications pour la Coupe du monde 1970
+602,1970-11-11,France,Lyon,Stade de Gerland,France,Norvège,3,1,win,Qualifications pour l'Euro 1972
+603,1971-09-08,Norvège,Oslo,Ullevaal Stadion,Norvège,France,1,3,win,Qualifications pour l'Euro 1972
+604,1987-06-16,Norvège,Oslo,Ullevaal Stadion,Norvège,France,2,0,loss,Qualifications pour l'Euro 1988
+605,1987-10-14,France,Paris,Parc des Princes,France,Norvège,1,1,draw,Qualifications pour l'Euro 1988
+606,1988-09-28,France,Paris,Parc des Princes,France,Norvège,1,0,win,Qualifications pour la Coupe du monde 1990
+607,1989-09-05,Norvège,Oslo,Ullevaal Stadion,Norvège,France,1,1,draw,Qualifications pour la Coupe du monde 1990
+608,1995-07-22,Norvège,Oslo,Ullevaal Stadion,Norvège,France,0,0,draw,Match amical
+609,1998-02-25,France,Marseille,stade Vélodrome,France,Norvège,3,3,draw,Match amical
+610,2010-08-11,Norvège,Oslo,Ullevaal Stadion,Norvège,France,2,1,loss,Match amical
+611,2014-05-27,France,Saint-Denis,Stade de France,France,Norvège,4,0,win,Match amical
+612,2003-06-22,France,Saint-Denis,Stade de France,France,Nouvelle-Zélande,5,0,win,Coupe des confédérations 2003 (Groupe A)
+613,1958-06-08,Suède,Norrköping,Idrottsparken,France,Paraguay,7,3,win,Coupe du monde 1958 (Groupe 2)
+614,1998-06-28,France,Lens,Stade Félix-Bollaert,France,Paraguay,1,0,loss,Coupe du monde 1998 (Huitième de finale)
+615,2008-05-31,France,Toulouse,Stadium municipal de Toulouse,France,Paraguay,0,0,draw,Match amical
+616,2014-06-01,France,Nice,Allianz Riviera,France,Paraguay,1,1,draw,Match amical
+617,2017-06-02,France,Rennes,Roazhon Park,France,Paraguay,5,0,win,Match amical
+618,1908-05-10,Pays-Bas,Rotterdam,Sparta Stadium at the Prinsenlaan,Pays-Bas,France,4,1,loss,Match amical
+619,1921-11-13,France,Paris,Stade Pershing,France,Pays-Bas,0,5,loss,Match amical
+620,1923-04-02,Pays-Bas,Amsterdam,De Toekomst,Pays-Bas,France,8,1,loss,Match amical
+621,1931-11-29,France,Colombes,Stade olympique Yves-du-Manoir,France,Pays-Bas,3,4,loss,Match amical
+622,1934-05-10,Pays-Bas,Amsterdam,Stade olympique,Pays-Bas,France,4,5,win,Match amical
+623,1936-01-12,France,Paris,Parc des Princes,France,Pays-Bas,1,6,loss,Match amical
+624,1937-10-31,Pays-Bas,Amsterdam,Stade olympique,Pays-Bas,France,2,3,win,Match amical
+625,1947-05-26,France,Colombes,Stade olympique Yves-du-Manoir,France,Pays-Bas,4,0,win,Match amical
+626,1949-04-23,Pays-Bas,Rotterdam,Stade de Feyenoord,Pays-Bas,France,4,1,loss,Match amical
+627,1950-12-10,France,Colombes,Stade olympique Yves-du-Manoir,France,Pays-Bas,5,2,win,Match amical
+628,1963-04-17,Pays-Bas,Rotterdam,Stade de Feyenoord,Pays-Bas,France,1,0,loss,Match amical
+629,1980-03-26,France,Paris,Parc des Princes,France,Pays-Bas,0,0,draw,Match amical
+630,1981-03-25,Pays-Bas,Rotterdam,Stade de Feyenoord,Pays-Bas,France,1,0,loss,Qualifications pour la Coupe du monde 1982
+631,1982-11-10,Pays-Bas,Rotterdam,Stade de Feyenoord,Pays-Bas,France,1,2,win,Match amical
+632,1992-06-05,France,Lens,Stade Félix-Bollaert,France,Pays-Bas,1,1,draw,Match amical
+633,1995-01-10,Pays-Bas,Utrecht,Stadion Galgenwaard,Pays-Bas,France,0,1,win,Match amical
+634,1996-06-22,Angleterre,Liverpool,Anfield,France,Pays-Bas,0,0,win,Euro 1996 (Quart de finale)
+635,1997-02-26,France,Paris,Parc des Princes,France,Pays-Bas,2,1,win,Match amical
+636,2000-06-21,Pays-Bas,Amsterdam,Amsterdam ArenA,Pays-Bas,France,3,2,loss,Euro 2000 (Groupe D)
+637,2004-03-31,Pays-Bas,Rotterdam,Stade de Feyenoord,Pays-Bas,France,0,0,draw,Match amical
+638,2008-06-13,Suisse,Berne,Stade de Suisse,Pays-Bas,France,4,1,loss,Euro 2008 (Groupe C)
+639,2014-03-05,France,Saint-Denis,Stade de France,France,Pays-Bas,2,0,win,Match amical
+640,2016-03-25,Pays-Bas,Amsterdam,Amsterdam ArenA,Pays-Bas,France,2,3,win,Match amical
+641,2018-09-09,France,Saint-Denis,Stade de France,France,Pays-Bas,2,1,win,"Ligue des nations 2018-2019 (Ligue A, Groupe 1)"
+642,2023-03-24,France,Saint-Denis,Stade de France,France,Pays-Bas,4,0,win,Qualifications pour l'Euro 2024
+643,2023-10-13,Pays-Bas,Amsterdam,Johan Cruyff Arena,Pays-Bas,France,1,2,win,Qualifications pour l'Euro 2024
+644,1933-05-25,France,Colombes,Stade olympique Yves-du-Manoir,France,Pays de Galles,1,1,draw,Match amical
+645,1939-05-21,France,Colombes,Stade olympique Yves-du-Manoir,France,Pays de Galles,2,1,win,Match amical
+646,1953-05-14,France,Colombes,Stade olympique Yves-du-Manoir,France,Pays de Galles,6,1,win,Match amical
+647,1982-06-02,France,Toulouse,Stadium municipal de Toulouse,France,Pays de Galles,0,1,loss,Match amical
+648,2017-11-10,France,Saint-Denis,Stade de France,France,Pays de Galles,2,0,win,Match amical
+649,2021-06-02,France,Nice,Allianz Riviera,France,Pays de Galles,3,0,win,Match amical
+650,1982-04-28,France,Paris,Parc des Princes,France,Pérou,0,1,loss,Match amical
+651,2018-06-21,Russie,Iekaterinbourg,Stade central,France,Pérou,1,0,win,Coupe du monde 2018 (Groupe C)
+652,1939-01-22,France,Paris,Parc des Princes,France,Pologne,4,0,win,Match amical
+653,1960-09-28,Pologne,Varsovie,Stade du 10e anniversaire,Pologne,France,2,2,draw,Match amical
+654,1962-04-11,France,Paris,Parc des Princes,France,Pologne,1,3,loss,Match amical
+655,1966-10-22,France,Paris,Parc des Princes,France,Pologne,2,1,win,Qualifications pour l'Euro 1968
+656,1967-09-17,Pologne,Varsovie,Stade du 10e anniversaire,Pologne,France,1,4,win,Qualifications pour l'Euro 1968
+657,1974-09-07,Pologne,Wrocław,Stade olympique,Pologne,France,0,2,win,Match amical
+658,1976-04-24,France,Lens,Stade Félix-Bollaert,France,Pologne,2,0,win,Match amical
+659,1982-07-10,Espagne,Alicante,Stade José Rico Pérez,Pologne,France,3,2,loss,Coupe du monde 1982 (Petite finale)
+660,1982-08-31,France,Paris,Parc des Princes,France,Pologne,0,4,loss,Match amical
+661,1990-08-15,France,Paris,Parc des Princes,France,Pologne,0,0,draw,Match amical
+662,1991-08-14,Pologne,Poznań,Stade municipal de Poznań,Pologne,France,1,5,win,Match amical
+663,1994-11-06,Pologne,Zabrze,Stade Ernest-Pohl,Pologne,France,0,0,draw,Qualifications pour l'Euro 1996
+664,1995-08-16,France,Paris,Parc des Princes,France,Pologne,1,1,draw,Qualifications pour l'Euro 1996
+665,2000-02-23,France,Saint-Denis,Stade de France,France,Pologne,1,0,win,Match amical
+666,2004-11-17,France,Saint-Denis,Stade de France,France,Pologne,0,0,draw,Match amical
+667,2011-06-09,Pologne,Varsovie,Stade du maréchal Józef Piłsudski,Pologne,France,0,1,win,Match amical
+668,2022-12-04,Qatar,Doha,Stade Al-Thumama,France,Pologne,3,1,win,Coupe du monde 2022 (Huitième de finale)
+669,1926-04-18,France,Toulouse,Stade des Ponts Jumeaux,France,Portugal,4,2,win,Match amical
+670,1927-03-16,Portugal,Lisbonne,Estádio do Lumiar,Portugal,France,4,0,loss,Match amical
+671,1928-04-29,France,Paris,Parc des Princes,France,Portugal,1,1,draw,Match amical
+672,1929-03-24,France,Colombes,Stade olympique Yves-du-Manoir,France,Portugal,2,0,win,Match amical
+673,1930-02-23,Portugal,Porto (Campo do Ameal,pt,Portugal,France,2,0,loss,Match amical
+674,1940-01-28,France,Paris,Parc des Princes,France,Portugal,3,2,win,Match amical
+675,1946-04-14,Portugal,Oeiras,Stade national du Jamor,Portugal,France,2,1,loss,Match amical
+676,1947-03-23,France,Colombes,Stade olympique Yves-du-Manoir,France,Portugal,1,0,win,Match amical
+677,1947-11-23,Portugal,Oeiras,Stade national du Jamor,Portugal,France,2,4,win,Match amical
+678,1952-04-20,France,Colombes,Stade olympique Yves-du-Manoir,France,Portugal,3,0,win,Match amical
+679,1957-03-24,Portugal,Oeiras,Stade national du Jamor,Portugal,France,0,1,win,Match amical
+680,1959-11-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Portugal,5,3,win,Match amical
+681,1973-03-03,France,Paris,Parc des Princes,France,Portugal,1,2,loss,Match amical
+682,1975-04-26,France,Colombes,Stade olympique Yves-du-Manoir,France,Portugal,0,2,loss,Match amical
+683,1978-03-08,France,Paris,Parc des Princes,France,Portugal,2,0,win,Match amical
+684,1983-02-16,Portugal,Guimarães,Stade D. Afonso Henriques,Portugal,France,0,3,win,Match amical
+685,1984-06-23,France,Marseille,stade Vélodrome,France,Portugal,3,2,loss,Euro 1984 (Demi-finale)
+686,1996-01-24,France,Paris,Parc des Princes,France,Portugal,3,2,win,Match amical
+687,1997-01-22,Portugal,Braga,Stade du Premier Mai,Portugal,France,0,2,win,Match amical
+688,2000-06-28,Belgique,Bruxelles,Stade du Roi Baudouin,Portugal,France,1,2,loss,Euro 2000 (Demi-finale)
+689,2001-04-25,France,Saint-Denis,Stade de France,France,Portugal,4,0,win,Match amical
+690,2006-07-05,Allemagne,Munich,Allianz Arena,Portugal,France,0,1,win,Coupe du monde 2006 (Demi-finale)
+691,2014-10-11,France,Saint-Denis,Stade de France,France,Portugal,2,1,win,Match amical
+692,2015-09-04,Portugal,Lisbonne,Stade José Alvalade XXI,Portugal,France,0,1,win,Match amical
+693,2016-07-10,France,Saint-Denis,Stade de France,Portugal,France,1,0,loss,Euro 2016 (Finale)
+694,2020-10-11,France,Saint-Denis,Stade de France,France,Portugal,0,0,draw,"Ligue des nations 2020-2021 (Ligue A, Groupe 3)"
+695,2020-11-14,Portugal,Lisbonne,Estádio da Luz,Portugal,France,0,1,win,"Ligue des nations 2020-2021 (Ligue A, Groupe 3)"
+696,2021-06-23,Hongrie,Budapest,Stade Ferenc-Puskás,Portugal,France,2,2,draw,Euro 2020 (Groupe F)
+697,1932-06-12,Roumanie,Bucarest,Stade ONEP,Roumanie,France,6,3,loss,Match amical
+698,1967-03-22,France,Paris,Parc des Princes,France,Roumanie,1,2,loss,Match amical
+699,1969-04-30,France,Paris,Parc des Princes,France,Roumanie,1,0,win,Match amical
+700,1970-04-28,France,Reims,Stade Auguste-Delaune,France,Roumanie,2,0,win,Match amical
+701,1972-04-08,Roumanie,Bucarest (Stadionul Național,1953,Roumanie,France,2,0,loss,Match amical
+702,1974-03-23,France,Paris,Parc des Princes,France,Roumanie,1,0,win,Match amical
+703,1994-10-08,France,Saint-Étienne,Stade Geoffroy-Guichard,France,Roumanie,0,0,draw,Qualifications pour l'Euro 1996
+704,1995-10-11,Roumanie,Bucarest,Stade Steaua,Roumanie,France,1,3,win,Qualifications pour l'Euro 1996
+705,1996-06-10,Angleterre,Newcastle,St James' Park,France,Roumanie,1,0,win,Euro 1996 (Groupe B)
+706,2002-02-13,France,Saint-Denis,Stade de France,France,Roumanie,2,1,win,Match amical
+707,2008-06-09,Suisse,Zurich,Stade du Letzigrund,Roumanie,France,0,0,draw,Euro 2008 (Groupe C)
+708,2008-10-11,Roumanie,Constanța,Stade du Phare,Roumanie,France,2,2,draw,Qualifications pour la Coupe du monde 2010
+709,2009-09-05,France,Saint-Denis,Stade de France,France,Roumanie,1,1,draw,Qualifications pour la Coupe du monde 2010
+710,2010-10-09,France,Saint-Denis,Stade de France,France,Roumanie,2,0,win,Qualifications pour l'Euro 2012
+711,2011-09-06,Roumanie,Bucarest,Arena Națională,Roumanie,France,0,0,draw,Qualifications pour l'Euro 2012
+712,2016-06-10,France,Saint-Denis,Stade de France,France,Roumanie,2,1,win,Euro 2016 (Groupe A)
+713,1993-07-28,France,Caen,Stade Michel-d'Ornano,France,Russie,3,1,win,Match amical
+714,1998-03-25,Russie,Moscou,Stade Dynamo,Russie,France,1,0,loss,Match amical
+715,1998-10-10,Russie,Moscou,Stade Loujniki,Russie,France,2,3,win,Qualifications pour l'Euro 2000
+716,1999-06-05,France,Saint-Denis,Stade de France,France,Russie,2,3,loss,Qualifications pour l'Euro 2000
+717,2002-04-17,France,Saint-Denis,Stade de France,France,Russie,0,0,draw,Match amical
+718,2016-03-29,France,Saint-Denis,Stade de France,France,Russie,4,2,win,Match amical
+719,2018-03-27,Russie,Saint-Pétersbourg,Stade de Saint-Pétersbourg,Russie,France,1,3,win,Match amical
+720,2000-08-16,France,Marseille,stade Vélodrome,France,Sélection FIFA,5,1,win,Match amical
+721,2002-05-31,Corée du Sud,Séoul,Stade de la Coupe du monde de Séoul,France,Sénégal,0,1,loss,Coupe du monde 2002 (Groupe A)
+722,2008-09-10,France,Saint-Denis,Stade de France,France,Serbie,2,1,win,Qualifications pour la Coupe du monde 2010
+723,2009-09-09,Serbie,Belgrade,Stade de l'Étoile rouge,Serbie,France,1,1,draw,Qualifications pour la Coupe du monde 2010
+724,2012-05-31,France,Reims,Stade Auguste-Delaune,France,Serbie,2,0,win,Match amical
+725,2014-09-07,Serbie,Belgrade,Stade de l'Étoile rouge,Serbie,France,1,1,draw,Match amical
+726,2015-09-07,France,Bordeaux,Matmut Atlantique,France,Serbie,2,1,win,Match amical
+727,1994-09-07,Slovaquie,Bratislava,Tehelné pole,Slovaquie,France,0,0,draw,Qualifications pour l'Euro 1996
+728,1995-04-26,France,Nantes,Stade de la Beaujoire,France,Slovaquie,4,0,win,Qualifications pour l'Euro 1996
+729,2006-03-01,France,Saint-Denis,Stade de France,France,Slovaquie,1,2,loss,Match amical
+730,2007-08-22,Slovaquie,Trnava,Stade Antona Malatinskeho,Slovaquie,France,0,1,win,Match amical
+731,2000-04-26,France,Saint-Denis,Stade de France,France,Slovénie,3,2,win,Match amical
+732,2002-10-12,France,Saint-Denis,Stade de France,France,- Slovénie,5,0,win,Qualifications pour l'Euro 2004
+733,2003-09-10,Slovénie,Ljubljana,Stade Bežigrad,Slovénie,France,0,2,win,Qualifications pour l'Euro 2004
+734,1935-11-10,France,Paris,Parc des Princes,France,Suède,2,0,win,Match amical
+735,1952-03-26,France,Paris,Parc des Princes,France,Suède,0,1,loss,Match amical
+736,1953-06-11,Suède,Solna,Råsunda,Suède,France,1,0,loss,Match amical
+737,1955-04-03,France,Colombes,Stade olympique Yves-du-Manoir,France,Suède,2,0,win,Match amical
+738,1960-10-30,Suède,Solna,Råsunda,Suède,France,1,0,loss,Match amical
+739,1969-10-15,Suède,Solna,Råsunda,Suède,France,2,0,loss,Qualifications pour la Coupe du monde 1970
+740,1969-11-01,France,Paris,Parc des Princes,France,Suède,3,0,win,Qualifications pour la Coupe du monde 1970
+741,1978-09-01,France,Paris,Parc des Princes,France,Suède,2,2,draw,Qualifications pour l'Euro 1980
+742,1979-09-05,Suède,Solna,Råsunda,Suède,France,1,3,win,Qualifications pour l'Euro 1980
+743,1989-08-16,Suède,Malmö,Malmö Stadion,Suède,France,2,4,win,Match amical
+744,1992-06-10,Suède,Solna,Råsunda,Suède,France,1,1,draw,Euro 1992 (Groupe 1)
+745,1993-04-28,France,Paris,Parc des Princes,France,Suède,2,1,win,Qualifications pour la Coupe du monde 1994
+746,1993-08-22,Suède,Solna,Råsunda,Suède,France,1,1,draw,Qualifications pour la Coupe du monde 1994
+747,1997-04-02,France,Paris,Parc des Princes,France,Suède,1,0,win,Match amical
+748,1998-04-22,Suède,Solna,Råsunda,Suède,France,0,0,draw,Match amical
+749,2005-02-09,France,Saint-Denis,Stade de France,France,Suède,1,1,draw,Match amical
+750,2008-08-20,Suède,Göteborg,Ullevi,Suède,France,2,3,win,Match amical
+751,2012-06-19,Ukraine,Kiev,Stade olympique,Suède,France,2,0,loss,Euro 2012 (Groupe D)
+752,2014-11-18,France,Marseille,stade Vélodrome,France,Suède,1,0,win,Match amical
+753,2020-09-05,Suède,Solna,Friends Arena,Suède,France,0,1,win,"Ligue des nations 2020-2021 (Ligue A, Groupe 3)"
+754,2020-11-17,France,Saint-Denis,Stade de France,France,Suède,4,2,win,"Ligue des nations 2020-2021 (Ligue A, Groupe 3)"
+755,1905-02-12,France,Paris,Parc des Princes,France,Suisse,1,0,win,Match amical
+756,1908-03-08,Suisse,Genève,Stade des Charmilles,Suisse,France,1,2,win,Match amical
+757,1911-04-23,Suisse,Genève,Stade des Charmilles,Suisse,France,5,2,loss,Match amical
+758,1912-02-18,France,Saint-Ouen,Stade de Paris,France,Suisse,4,1,win,Match amical
+759,1913-03-09,Suisse,Genève,Stade des Charmilles,Suisse,France,1,4,win,Match amical
+760,1914-03-08,France,Saint-Ouen,Stade de Paris,France,Suisse,2,2,draw,Match amical
+761,1920-02-29,Suisse,Genève,Stade des Charmilles,Suisse,France,0,2,win,Match amical
+762,1923-04-22,France,Paris,Stade Pershing,France,Suisse,2,2,draw,Match amical
+763,1924-03-23,Suisse,Genève,Stade des Charmilles,Suisse,France,3,0,loss,Match amical
+764,1926-04-25,France,Colombes,Stade olympique Yves-du-Manoir,France,Suisse,1,0,win,Match amical
+765,1928-03-11,Suisse,Lausanne,Stade olympique de la Pontaise,Suisse,France,4,3,loss,Match amical
+766,1930-03-23,France,Colombes,Stade olympique Yves-du-Manoir,France,Suisse,3,3,draw,Match amical
+767,1932-03-20,Suisse,Berne,Stade du Neufeld,Suisse,France,3,3,draw,Match amical
+768,1934-03-11,France,Paris,Parc des Princes,France,Suisse,0,1,loss,Match amical
+769,1935-10-27,Suisse,Genève,Stade des Charmilles,Suisse,France,2,1,loss,Match amical
+770,1937-10-10,France,Paris,Parc des Princes,France,Suisse,2,1,win,Match amical
+771,1942-03-08,France,Marseille,stade Vélodrome,France,Suisse,0,2,loss,Match amical
+772,1945-04-08,Suisse,Lausanne,Stade olympique de la Pontaise,Suisse,France,1,0,loss,Match amical
+773,1947-06-08,Suisse,Lausanne,Stade olympique de la Pontaise,Suisse,France,1,2,win,Match amical
+774,1949-06-04,France,Colombes,Stade olympique Yves-du-Manoir,France,Suisse,4,2,win,Match amical
+775,1951-10-14,Suisse,Genève,Stade des Charmilles,Suisse,France,1,2,win,Match amical
+776,1953-11-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Suisse,2,4,loss,Match amical
+777,1955-10-09,Suisse,Bâle,Stade Saint-Jacques,Suisse,France,1,2,win,Match amical
+778,1958-04-16,France,Paris,Parc des Princes,France,Suisse,0,0,draw,Match amical
+779,1960-10-12,Suisse,Bâle,Stade Saint-Jacques,Suisse,France,6,2,loss,Match amical
+780,1963-11-11,France,Paris,Parc des Princes,France,Suisse,2,2,draw,Match amical
+781,1970-05-03,Suisse,Bâle,Stade Saint-Jacques,Suisse,France,2,1,loss,Match amical
+782,1977-04-23,Suisse,Genève,Stade des Charmilles,Suisse,France,0,4,win,Match amical
+783,1986-08-19,Suisse,Lausanne,Stade olympique de la Pontaise,Suisse,France,2,0,loss,Match amical
+784,1988-02-02,France,Toulouse,Stadium municipal de Toulouse,France,Suisse,2,1,win,Tournoi de France 1988 (amical)
+785,1992-05-27,Suisse,Lausanne,Stade olympique de la Pontaise,Suisse,France,2,1,loss,Match amical
+786,2003-08-20,Suisse,Genève,Stade de Genève,Suisse,France,0,2,win,Match amical
+787,2004-06-21,Portugal,Coimbra,Stade municipal de Coimbra,Suisse,France,1,3,win,Euro 2004 (Groupe B)
+788,2005-03-26,France,Saint-Denis,Stade de France,France,Suisse,0,0,draw,Qualifications pour la Coupe du monde 2006
+789,2005-10-08,Suisse,Berne,Stade de Suisse Wankdorf Bern,Suisse,France,1,1,draw,Qualifications pour la Coupe du monde 2006
+790,2006-06-13,Allemagne,Stuttgart,Gottlieb-Daimler-Stadion,France,Suisse,0,0,draw,Coupe du monde 2006 (Groupe G)
+791,2014-06-20,Brésil,Salvador,Itaipava Arena Fonte Nova,Suisse,France,2,5,win,Coupe du monde 2014 (Groupe E)
+792,2016-06-19,France,Villeneuve-d'Ascq,Stade Pierre Mauroy,Suisse,France,0,0,draw,Euro 2016 (Groupe A)
+793,2021-06-28,Roumanie,Bucarest,Arena Națională,France,Suisse,3,3,loss,Euro 2020 (Huitième de finale)
+794,1920-08-31,Belgique,Anvers,Stade olympique d'Anvers,Tchécoslovaquie,France,4,1,loss,Jeux olympiques 1920 (Demi-finale)
+795,1928-05-13,France,Colombes,Stade olympique Yves-du-Manoir,France,Tchécoslovaquie,0,2,loss,Match amical
+796,1930-05-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Tchécoslovaquie,2,3,loss,Match amical
+797,1931-02-15,France,Colombes,Stade olympique Yves-du-Manoir,France,Tchécoslovaquie,1,2,loss,Match amical
+798,1933-06-10,Tchécoslovaquie,Prague,Stade Letná,Tchécoslovaquie,France,4,0,loss,Match amical
+799,1934-03-25,France,Colombes,Stade olympique Yves-du-Manoir,France,Tchécoslovaquie,1,2,loss,Match amical
+800,1936-02-09,France,Paris,Parc des Princes,France,Tchécoslovaquie,0,3,loss,Match amical
+801,1946-04-07,France,Colombes,Stade olympique Yves-du-Manoir,France,Tchécoslovaquie,3,0,win,Match amical
+802,1948-06-12,Tchécoslovaquie,Prague,Stade Letná,Tchécoslovaquie,France,0,4,win,Match amical
+803,1949-11-13,France,Colombes,Stade olympique Yves-du-Manoir,France,Tchécoslovaquie,1,0,win,Match amical
+804,1960-07-09,France,Marseille,stade Vélodrome,Tchécoslovaquie,France,2,0,loss,Euro 1960 (Petite finale)
+805,1970-09-05,France,Nice (Stade Léo-Lagrange,Nice,France,Tchécoslovaquie,3,0,win,Match amical
+806,1974-04-27,Tchécoslovaquie,Prague,Stade Letná,Tchécoslovaquie,France,3,3,draw,Match amical
+807,1976-03-27,France,Paris,Parc des Princes,France,Tchécoslovaquie,2,2,draw,Match amical
+808,1979-04-04,Tchécoslovaquie,Bratislava,Tehelné pole,Tchécoslovaquie,France,2,0,loss,Qualifications pour l'Euro 1980
+809,1979-11-17,France,Paris,Parc des Princes,France,Tchécoslovaquie,2,1,win,Qualifications pour l'Euro 1980
+810,1982-06-24,Espagne,Valladolid,Stade José-Zorrilla,France,Tchécoslovaquie,1,1,draw,Coupe du monde 1982 (Groupe 4 - 1er tour)
+811,1988-08-24,France,Paris,Parc des Princes,France,Tchécoslovaquie,1,1,draw,Match amical
+812,1990-10-13,France,Paris,Parc des Princes,France,Tchécoslovaquie,2,1,win,Qualifications pour l'Euro 1992
+813,1991-09-04,Tchécoslovaquie,Bratislava,Tehelné pole,Tchécoslovaquie,France,1,2,win,Qualifications pour l'Euro 1992
+814,1994-08-17,France,Bordeaux,Parc Lescure,France,Tchéquie,2,2,draw,Match amical
+815,1996-06-26,Angleterre,Manchester,Old Trafford,Tchéquie,France,0,0,loss,Euro 1996 (Demi-finale)
+816,2000-06-16,Belgique,Bruges,Stade Jan-Breydel,Tchéquie,France,1,2,win,Euro 2000 (Groupe D)
+817,2003-02-12,France,Saint-Denis,Stade de France,France,Tchéquie,0,2,loss,Match amical
+818,2006-06-23,Allemagne,Cologne,RheinEnergieStadion,Togo,France,0,2,win,Coupe du monde 2006 (Groupe G)
+819,1978-05-19,France,Villeneuve-d'Ascq,Stadium Nord,France,Tunisie,2,0,win,Match amical
+820,2002-08-21,Tunisie,Radès,Stade du 7-Novembre,Tunisie,France,1,1,draw,Match amical
+821,2008-10-14,France,Saint-Denis,Stade de France,France,Tunisie,3,1,win,Match amical
+822,2010-05-30,Tunisie,Radès,Stade du 7-Novembre,Tunisie,France,1,1,draw,Match amical
+823,2022-11-30,Qatar,Al Rayyan,Education City Stadium,Tunisie,France,1,0,loss,Coupe du monde 2022 (Groupe D)
+824,1996-10-09,France,Paris,Parc des Princes,France,Turquie,4,0,win,Match amical
+825,2000-11-15,Turquie,Istanbul,stade BJK İnönü,Turquie,France,0,4,win,Match amical
+826,2003-06-26,France,Saint-Denis,Stade de France,France,Turquie,3,2,win,Coupe des confédérations 2003 (Demi-finale)
+827,2009-06-05,France,Lyon,Stade de Gerland,France,Turquie,1,0,win,Match amical
+828,2019-06-08,Turquie,Konya,Konya Büyükşehir Belediye Stadyumu,Turquie,France,2,0,loss,Qualifications pour l'Euro 2020
+829,2019-10-14,France,Saint-Denis,Stade de France,France,Turquie,1,1,draw,Qualifications pour l'Euro 2020
+830,1999-03-27,France,Saint-Denis,Stade de France,France,Ukraine,0,0,draw,Qualifications pour l'Euro 2000
+831,1999-09-04,Ukraine,Kiev,Stade olympique,Ukraine,France,0,0,draw,Qualifications pour l'Euro 2000
+832,2004-06-06,France,Saint-Denis,Stade de France,France,Ukraine,1,0,win,Match amical
+833,2007-06-02,France,Saint-Denis,Stade de France,France,Ukraine,2,0,win,Qualifications pour l'Euro 2008
+834,2007-11-21,Ukraine,Kiev,Stade olympique,Ukraine,France,2,2,draw,Qualifications pour l'Euro 2008
+835,2011-06-06,Ukraine,Donetsk,Donbass Arena,Ukraine,France,1,4,win,Match amical
+836,2012-06-15,Ukraine,Donetsk,Donbass Arena,Ukraine,France,0,2,win,Euro 2012 (Groupe D)
+837,2013-11-15,Ukraine,Kiev,Stade olympique,Ukraine,France,2,0,loss,Qualifications pour la Coupe du monde 2014 (barrage)
+838,2013-11-19,France,Saint-Denis,Stade de France,France,Ukraine,3,0,win,Qualifications pour la Coupe du monde 2014 (barrage)
+839,2020-10-07,France,Saint-Denis,Stade de France,France,Ukraine,7,1,win,Match amical
+840,2021-03-24,France,Saint-Denis,Stade de France,France,Ukraine,1,1,draw,Qualifications pour la Coupe du monde 2022
+841,2021-09-04,Ukraine,Kiev,Stade olympique,Ukraine,France,1,1,draw,Qualifications pour la Coupe du monde 2022
+842,1955-10-23,Union soviétique,Moscou,Stade Dynamo,URSS,France,2,2,draw,Match amical
+843,1956-10-21,France,Colombes,Stade olympique Yves-du-Manoir,France,URSS,2,1,win,Match amical
+844,1966-06-06,Union soviétique,Moscou,Stade Central Lénine,URSS,France,3,3,draw,Match amical
+845,1967-06-03,France,Paris,Parc des Princes,France,URSS,2,4,loss,Match amical
+846,1972-10-13,France,Paris,Parc des Princes,France,URSS,1,0,win,Qualifications pour la Coupe du monde 1974
+847,1973-05-26,Union soviétique,Moscou,Stade central Lénine,URSS-,France,2,0,loss,Qualifications pour la Coupe du monde 1974
+848,1977-10-08,France,Paris,Parc des Princes,France,URSS,0,0,draw,Match amical
+849,1980-05-23,Union soviétique,Moscou,Stade central Lénine,URSS-,France,1,0,loss,Match amical
+850,1983-03-23,France,Paris,Parc des Princes,France,URSS,1,1,draw,Match amical
+851,1986-06-05,Mexique,León,Estadio Nou Camp,France,URSS,1,1,draw,Coupe du monde 1986 (Groupe C)
+852,1986-10-11,France,Paris,Parc des Princes,France,URSS,0,2,loss,Qualifications pour l'Euro 1988
+853,1987-09-09,Union soviétique,Moscou,Stade central Lénine,URSS,France,1,1,draw,Qualifications pour l'Euro 1988
+854,1924-06-01,France,Colombes,Stade olympique Yves-du-Manoir,France,Uruguay,1,5,loss,Jeux olympiques 1924 (Quart de finale)
+855,1966-07-15,Angleterre,Londres,White City Stadium,Uruguay,France,2,1,loss,Coupe du monde 1966 (Groupe 1)
+856,1985-08-21,France,Paris,Parc des Princes,France,Uruguay,2,0,win,Coupe intercontinentale 1985
+857,2002-06-06,Corée du Sud,Busan,Asiad Main Stadium,France,Uruguay,0,0,draw,Coupe du monde 2002 (Groupe A)
+858,2008-11-19,France,Saint-Denis,Stade de France,France,Uruguay,0,0,draw,Match amical
+859,2010-06-11,Afrique du Sud,Le Cap,Green Point Stadium,Uruguay,France,0,0,draw,Coupe du monde 2010 (Groupe A)
+860,2012-08-15,France,Le Havre,Stade Océane,France,Uruguay,0,0,draw,Match amical
+861,2013-06-05,Uruguay,Montevideo,Stade Centenario,Uruguay,France,1,0,loss,Match amical
+862,2018-07-06,Russie,Nijni Novgorod,Stade de Nijni Novgorod,Uruguay,France,0,2,win,Coupe du monde 2018 (Quart de finale)
+863,2018-11-20,France,Saint-Denis,Stade de France,France,Uruguay,1,0,win,Match amical
+864,1926-06-13,France,Colombes,Stade olympique Yves-du-Manoir,France,"Royaume desSerbes, Croates et Slovènes",4,1,win,Match amical
+865,1929-05-19,France,Colombes,Stade olympique Yves-du-Manoir,France,"Royaume desSerbes, Croates et Slovènes",1,3,loss,Match amical
+866,1932-06-05,Royaume de Yougoslavie,Belgrade,BSK Stadion,Royaume de Yougoslavie,France,2,1,loss,Match amical
+867,1934-12-06,France,Paris,Parc des Princes,France,Royaume de Yougoslavie,3,2,win,Match amical
+868,1936-12-13,France,Paris,Parc des Princes,France,Royaume de Yougoslavie,1,0,win,Match amical
+869,1949-10-09,Yougoslavie,Belgrade,Stade du Partizan,Yougoslavie,France,1,1,draw,Qualifications pour la Coupe du monde 1950
+870,1949-10-30,France,Colombes,Stade olympique Yves-du-Manoir,France,Yougoslavie,1,1,draw,Qualifications pour la Coupe du monde 1950
+871,1949-12-11,Italie,Florence,Stade Artemio-Franchi,Yougoslavie,France,3,2,loss,Qualifications pour la Coupe du monde 1950 (barrage)
+872,1951-02-06,France,Paris,Parc des Princes,France,Yougoslavie,2,1,win,Match amical
+873,1953-10-18,Yougoslavie,Zagreb,Stade Maksimir,Yougoslavie,France,3,1,loss,Match amical
+874,1954-06-16,Suisse,Lausanne,Stade olympique de la Pontaise,Yougoslavie,France,1,0,loss,Coupe du monde 1954 (Groupe 1)
+875,1955-11-11,France,Colombes,Stade olympique Yves-du-Manoir,France,Yougoslavie,1,1,draw,Match amical
+876,1958-06-11,Suède,Västerås,Arosvallen,Yougoslavie,France,3,2,loss,Coupe du monde 1958 (Groupe 2)
+877,1960-07-06,France,Paris,Parc des Princes,France,Yougoslavie,4,5,loss,Euro 1960 (Demi-finale)
+878,1965-04-18,Yougoslavie,Belgrade,Stade de l'Étoile rouge,Yougoslavie,France,1,0,loss,Qualifications pour la Coupe du monde 1966
+879,1965-10-09,France,Paris,Parc des Princes,France,Yougoslavie,1,0,win,Qualifications pour la Coupe du monde 1966
+880,1968-04-06,France,Marseille,stade Vélodrome,France,Yougoslavie,1,1,draw,Qualifications pour l'Euro 1968
+881,1968-04-24,Yougoslavie,Belgrade,Stade de l'Étoile rouge,Yougoslavie,France,5,1,loss,Qualifications pour l'Euro 1968
+882,1983-04-23,France,Paris,Parc des Princes,France,Yougoslavie,4,0,win,Match amical
+883,1983-11-12,Yougoslavie,Zagreb,Stade Maksimir,Yougoslavie,France,0,0,draw,Match amical
+884,1984-06-19,France,Saint-Étienne,Stade Geoffroy-Guichard,France,Yougoslavie,3,2,win,Euro 1984 (Groupe 1)
+885,1985-04-03,Yougoslavie,Sarajevo,Olimpijski stadion Koševo,Yougoslavie,France,0,0,draw,Qualifications pour la Coupe du monde 1986
+886,1985-11-16,France,Paris,Parc des Princes,France,Yougoslavie,2,0,win,Qualifications pour la Coupe du monde 1986
+887,1988-11-19,Yougoslavie,Belgrade,Stade du Partizan,Yougoslavie,France,3,2,loss,Qualifications pour la Coupe du monde 1990
+888,1989-04-29,France,Paris,Parc des Princes,France,Yougoslavie,0,0,draw,Qualifications pour la Coupe du monde 1990
+889,2002-11-20,France,Saint-Denis,Stade de France,France,RF Yougoslavie,3,0,win,Match amical
