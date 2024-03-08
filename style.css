@@ -1,7 +1,7 @@
 body {
   margin-left: 30px;
   margin-right: 30px;
-  font-family: 'Montserrat';
+  font-family: Montserrat;
   background: #21304D;
 }
 
@@ -12,11 +12,26 @@ h1 {
   margin: 10px;
 }
 
-img {
-  width: 70px;
-  position: absolute;
-  top: 25px;
-  right: 75px;
+h2 {
+  font-family: Montserrat;
+  color: white;
+  font-size: 16px;
+  margin: 10px;
+}
+
+h3 {
+  font-family: Montserrat;
+  color: white;
+  font-size: 15px;
+  margin: 10px;
+  margin-left: 30px;
+}
+
+p {
+  font-family: Montserrat;
+  color: white;
+  font-size: 14px;
+  margin: 10px;
 }
 
 .tooltip {
@@ -123,8 +138,13 @@ img {
 }
 
 
-a {
+.black-link {
   color: black;
+}
+.white-link {
+  color: white;
+  font-size: 14px;
+  margin: 10px;
 }
 
 
