@@ -22,12 +22,19 @@ h2 {
 h3 {
   font-family: Montserrat;
   color: white;
-  font-size: 15px;
+  font-size: 14px;
   margin: 10px;
-  margin-left: 30px;
+  /* margin-left: 30px; */
 }
 
 p {
+  font-family: Montserrat;
+  color: white;
+  font-size: 14px;
+  margin: 10px;
+}
+
+li {
   font-family: Montserrat;
   color: white;
   font-size: 14px;
@@ -144,7 +151,6 @@ p {
 .white-link {
   color: white;
   font-size: 14px;
-  margin: 10px;
 }
 
 
