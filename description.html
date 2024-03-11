@@ -29,18 +29,24 @@
     <p>
         L'objectif de cette visualisation est de présenter des statistiques intéressantes de l'équipe de France de football avec une carte interactive. De statistiques globales ainsi que par pays sont présentées. L'utilisateur peut utiliser un filtre temporel pour s'intéresser à une période précise et sélectionner un pays adversaire pour avoir des statistiques sur les matchs contre ce pays. Le prototype ci-dessous présente l'idée initiale de la mise en page et du choix de graphiques et visualisations à montrer.
     </p>
+    <h3>Prototype</h3>
+    <img src="prototype.jpg" alt="Prototype papier" width="500" height="300" style="margin-left:10px;"/>
+    <h3>Les données</h3>
     <p>
         Les données sur les résultats de l'Equipe de France de Football ont été obtenues à partir de la page Wikipédia <a href="https://fr.wikipedia.org/wiki/Liste_des_matchs_de_l%27%C3%A9quipe_de_France_de_football_par_adversaire" class="white-link">https://fr.wikipedia.org/wiki/Liste_des_matchs_de_l%27%C3%A9quipe_de_France_de_football_par_adversaire</a> en s'inspirant du projet de 
         Paul-Antoine Chevalier : <a href="https://pachevalier.github.io/coupedumonde/index.html#timeline" class="white-link">https://pachevalier.github.io/coupedumonde/index.html#timeline</a>.
         Les données geojson ont été obtenues sur le site <a href="https://geojson-maps.ash.ms/" class="white-link">https://geojson-maps.ash.ms/</a>. Des modifications ont été apportées sur les pays du Royaume-Uni pour les séparer.
     </p>
+    <h3>Exploration des données</h3>
+    <p>Nous avons dans un premier temps fait une exploration des données dans un Observable (lien en bas de la page) pour voir notamment l'étendue temporelle des données (de 1904 à 2023), le nombre de matchs par 4 ans (il augmente jusqu'en 2000), le nombre maximum de matchs contre une seule équipe (75 contre la Belgique), les écarts de score, le nombre de buts...</p>
+    <h3>Choix de visualisation</h3>
     <p>
         Nous avons choisi de nous appuyer sur une carte du monde en visualisation principale en encodant le nombre de matchs par une échelle de couleurs par quantile avec une légende associée. On peut ainsi facilement voir les pays que le France n'a pas affronté (gris) et les adversaires les plus récurrents (rouge plus intense). L'utilisateur peut alors interagir avec la carte : il peut voir le nom du pays et le nombre de matchs en survolant la carte et il peut cliquer sur le pays qui l'intéresse pour afficher un volet avec des statistiques sur les rencontres de l'équipe de France avec ce pays. Les couleurs utilisées dans la visualisation correspondent aux couleurs de l'équipe de France.
     </p>
     <p>
         Pour les statistiques suivantes, nous avons utilisé la biblitothèque D3.
         <ul>
-            <li>Pour le nombre de victoires, défaites et matchs nuls, nous avons décidé de représenter ces nombres sous forme de stacked bar avec 3 couleurs pour les 3 catégories. La taille des barres dépend de la proportion de chaque catégorie.</li>
+            <li>Pour le nombre de victoires, défaites et matchs nuls, nous avons décidé de représenter ces nombres sous forme de stacked bar avec 3 couleurs pour les 3 catégories. La taille des barres dépend de la proportion de chaque catégorie, on peut ainsi immédiatement voir si la France a eu plus de victoires ou de défaites.</li>
             <li>Pour le type de compétition, nous avons choisi de répesenter la proportion de matchs amicaux et matchs officiels sous forme de pie chart.</li>
             <li>Pour le nombre de buts marqués par chaque équipe, nous avons choisi un bar chart qui permet de voir immédiatement quelle équipe a marqué le plus de buts.</li>
             <li>Pour avoir des données plus précises sur chaque match, nous les avons représenté sous forme de timeline, en s'inspirant de la visualisation de Paul-Antoine Chevalier. Les matchs sont regroupés par 4 ans, comme la fréquence de la plupart des compétitions officielles (Coupe du Monde, Euro), et on représente chaque match par un carré avec la couleur encodant l'issue du match (victoire/défaite/match nul) pour la France. L'utilisateur peut interagir avec ce graphique en survolant les carrés, il peut alors voir la date du match, la compétition et le score.</li>
@@ -60,7 +66,7 @@
         L'Australie n'a jamais battu la France, la France a un total de 4 victoires et 1 match nul.
     </p>
     <p>
-        Le pays que la France a le plus affronté est la Belgique avec 75 matchs entre 1905 et 2024.
+        Le pays que la France a le plus affronté est la Belgique avec 75 matchs entre 1904 et 2023.
     </p>
     <p>
         L'Italie était meilleure que la France entre 1908 et 1980 ; depuis 1980, la tendance s'inverse. Le plus grand écart de buts entre l'Italie et la France est de 7 buts. Il s'agit d'un match amical de 1925 où l'Italie a gagné 7 à 0.
@@ -73,13 +79,22 @@
         <li>Pour la barre du nombre de victoires/défaites/matchs nuls, les textes peuvent parfois se superposer.</li>
     </ul>
 
-    <h2>Prototype</h2>
-    <img src="prototype.jpg" alt="Prototype papier" width="500" height="300" style="margin-left:10px;">
+    <h2>Le code</h2>
+    <p>
+        Dans le script java, il y a quelques fonctions majeures :
+        <ul>
+            <li>La fonction process_data traite les données csv et les joint aux données geojson afin de générer la carte ainsi que toutes les autres visualisations. Elle est appelée lorsque les données changent, par exemple lorsque la plage temporelle change.</li>
+            <li>La fonction refit_global a pour but de modifier la taille des éléments en fonction de la taille de la fenêtre. C'est une brique de la fonction process_data qui génère la carte et les graphiques des statistiques globales.</li>
+            <li>La fonction update_stats_pays génère le volet et les graphiques correspondant au pays sélectionné sur la carte ou avec le champ de texte.</li>
+        </ul>
+    </p>
+    <p>Les autres fonctions du code génèrent les graphiques.</p>
 
     <h2>Liens</h2>
     <ul>
         <li>Lien du GitHub (visualisation finale avec page consultable en ligne) : <a href="https://github.com/Nawfal-Mellah/nawfal-mellah.github.io"  class="white-link">https://github.com/Nawfal-Mellah/nawfal-mellah.github.io</a></li>
         <li>Lien du GitLab (développement du projet) : <a href="https://gitlab.ec-lyon.fr/vincentd/fr_football"  class="white-link">https://gitlab.ec-lyon.fr/vincentd/fr_football</a></li>
+        <li>Lien du Observable (exploration des données) : <a href="https://observablehq.com/d/5fba42cae37cae17"  class="white-link">https://observablehq.com/d/5fba42cae37cae17</a></li>
         <li>Lien du Observable (prototype et premières pistes) : <a href="https://observablehq.com/d/ab8ab86f17b0ef02"  class="white-link">https://observablehq.com/d/ab8ab86f17b0ef02</a></li>
     </ul>
 </body>
