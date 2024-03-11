@@ -421,15 +421,15 @@ $(document).ready(function () {
         const arc = d3.arc()
             .innerRadius(0)
             .outerRadius(radius);
-        const pie = d3.pie().value(d => d[1]);
+        const pie = d3.pie().value(d => d[1]).sort((a, b) => d3.ascending(a.competition_type, b.competition_type));;
         var pie_data = [...d3.rollup(
             data,
             v => v.length,
             d => d.competition_type
         )];
         const colorScale = d3.scaleOrdinal()
-        .domain(pie_data.map(d => d[0]))
-        .range([blueColor, redColor]);
+            .domain(pie_data.map(d => d[0]))
+            .range([blueColor, redColor]);
 
         svg_pie_chart.selectAll(".pie-chart").data(pie(pie_data)).enter()
             .append("path")
